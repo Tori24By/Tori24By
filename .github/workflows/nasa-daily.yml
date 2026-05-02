@@ -1,4 +1,4 @@
-name: NASA Daily Update
+name: NASA APOD Daily Update
 
 on:
   schedule:
@@ -10,9 +10,11 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4.1.1
+        uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -26,11 +28,11 @@ jobs:
         env:
           NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
         run: |
-          # O comando agora chama nasa.py
+          # Verificação de segurança para o nome correto do arquivo
           if [ -f "nasa.py" ]; then
             python nasa.py
           else
-            echo "Erro: O arquivo nasa.py não foi encontrado na raiz do repositório."
+            echo "Erro: Arquivo nasa.py não encontrado na raiz."
             exit 1
           fi
 
