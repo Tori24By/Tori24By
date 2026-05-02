@@ -1,4 +1,4 @@
-name: NASA APOD Daily Update
+name: NASA Daily Update
 
 on:
   schedule:
