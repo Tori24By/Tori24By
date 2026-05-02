@@ -23,7 +23,10 @@
   <img src="https://img.shields.io/badge/Java-000521?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Angular-000521?style=for-the-badge&logo=angular&logoColor=dd0031">
   <img src="https://img.shields.io/badge/SQL-000521?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/C-000521?style=for-the-badge&logo=c&logoColor=dd0031">
+  <img src="https://img.shields.io/badge/PHP-000521?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Power_BI-000521?style=for-the-badge&logo=powerbi&logoColor=F2C811">
+  <img src="https://img.shields.io/badge/Powe_Platform-000521?style=for-the-badge&logo=powerplatform&logoColor=white">
 </p>
 
 <p align="center">
