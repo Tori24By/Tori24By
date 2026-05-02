@@ -82,8 +82,13 @@
   <img src="https://img.shields.io/badge/Style-Techwear-000521?style=flat-square&logo=adidas&logoColor=white">
 </p>
 
-<!-- BLOG-POST-LIST:START -->
+<h3 align="center">Latest Intelligence / 最新の知性</h3>
 
+<!-- BLOG-POST-LIST:START -->
+<p align="center">
+  <i>Aguardando o primeiro mergulho...</i><br><br>
+  <code>[ █ █ █ █ ░ ░ ░ ░ ░ ░ ] 40% Loading Feed</code>
+</p>
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
