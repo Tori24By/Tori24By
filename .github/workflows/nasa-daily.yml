@@ -2,19 +2,21 @@ name: NASA Daily Update
 
 on:
   schedule:
-    - cron: '0 12 * * *' 
+    - cron: '0 12 * * *'
   workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5 
         with:
-          python-version: '3.x'
+          python-version: '3.11'
 
       - name: Install dependencies
         run: pip install requests
@@ -22,7 +24,9 @@ jobs:
       - name: Run NASA script
         env:
           NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
-        run: python nasa_apod.py
+        run: |
+          ls -la
+          python nasa_apod.py
 
       - name: Commit and Push
         run: |
