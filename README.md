@@ -91,6 +91,9 @@
 </p>
 <!-- BLOG-POST-LIST:END -->
 
+<!-- NASA-APOD:START -->
+<!-- NASA-APOD:END -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00d4ff&height=2&section=footer" width="100%"/>
 </p>
