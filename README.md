@@ -28,7 +28,7 @@
 
 <p align="center">
   <i>"No meio da noite, pescando novas ideias e linhas de código."</i><br>
-  
+  <br>
   <h3 align="center"><b>Identity / アイデンティティ</b></h3>
 </p>
 
@@ -42,6 +42,7 @@
   <img src="https://geps.dev/progress/75?dangerColor=000521&warningColor=00d4ff&successColor=00d4ff" alt="AWS Progress"> <br>
 </p>
 
+<br>
 <h3 align="center">Current Deployments / 現在の展開</h3>
 
 <div align="center">
@@ -77,6 +78,7 @@
   <img src="https://lanyard.cnrad.dev/api/1236888580580708355?theme=dark&bg=000521&title_color=00d4ff&text_color=ffffff&idle_color=003566" alt="Lanyard Status">
 </p>
 
+<br>
 <h3 align="center">Atmosphere & Inspiration / 雰囲気</h3>
 
 <p align="center">
@@ -85,6 +87,7 @@
   <img src="https://img.shields.io/badge/Style-Techwear-000521?style=flat-square&logo=adidas&logoColor=white">
 </p>
 
+<br>
 <h3 align="center">Latest Intelligence / 最新の知性</h3>
 
 <!-- BLOG-POST-LIST:START -->
