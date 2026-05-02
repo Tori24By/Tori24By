@@ -8,11 +8,11 @@
 
 <h3 align="center">Pulso de Código / コードパルス</h3>
 
-<h3 align="center">WakaTime</h3>
-
 <p align="center">
-<!-- START_SECTION:waka -->
-<!-- END_SECTION:waka -->
+  <code>
+    <!-- START_SECTION:waka -->
+    <!-- END_SECTION:waka -->
+  </code>
 </p>
 
 <h3 align="center">Core Stack / コアスタック</h3>
