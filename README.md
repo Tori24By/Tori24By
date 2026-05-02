@@ -8,9 +8,8 @@
 
 <h3 align="center">Pulso de Código / コードパルス</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tori24By&theme=tokyonight&layout=compact" alt="WakaTime Stats">
-</p>
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
 
 <h3 align="center">Core Stack / コアスタック</h3>
 <p align="center">
