@@ -1,4 +1,4 @@
-name: NASA Daily Update
+name: NASA APOD Daily Update
 
 on:
   schedule:
@@ -11,24 +11,29 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v4.1.1 
       - name: Set up Python
         uses: actions/setup-python@v5 
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
+      - name: Install Dependencies
         run: pip install requests
 
-      - name: Run NASA script
+      - name: Execute NASA Script
         env:
           NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
         run: |
-          ls -la
-          python nasa_apod.py
+          # Verifica se o arquivo existe antes de tentar rodar
+          if [ -f "nasa_apod.py" ]; then
+            python nasa_apod.py
+          else
+            echo "Erro: nasa_apod.py não encontrado na raiz."
+            exit 1
+          fi
 
-      - name: Commit and Push
+      - name: Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
