@@ -7,14 +7,22 @@ def get_apod():
     response = requests.get(url)
     data = response.json()
     
-    image_url = data.get("url")
-    title = data.get("title")
+    title = data.get("title", "NASA APOD")
+    image_url = data.get("url", "")
     explanation = data.get("explanation", "")[:300] + "..."
     
-    return f"#### {title}\n\n<img src='{image_url}' width='400' />\n\n> {explanation}"
+    content = (
+        f"<div align='center'>\n\n"
+        f"#### 🌌 {title}\n\n"
+        f"<img src='{image_url}' width='400' />\n\n"
+        f"> {explanation}\n\n"
+        f"</div>"
+    )
+    return content
 
 def update_readme(content):
     if not os.path.exists("README.md"):
+        print("Erro: Arquivo README.md não encontrado.")
         return
 
     with open("README.md", "r", encoding="utf-8") as file:
@@ -29,6 +37,7 @@ def update_readme(content):
 
     parts = readme.split(start_tag)
     final_parts = parts[1].split(end_tag)
+
     new_readme = parts[0] + start_tag + "\n" + content + "\n" + end_tag + final_parts[1]
 
     with open("README.md", "w", encoding="utf-8") as file:
