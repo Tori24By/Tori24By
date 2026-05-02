@@ -12,9 +12,10 @@ jobs:
       contents: write
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4.1.1 
+        uses: actions/checkout@v4.1.1
+
       - name: Set up Python
-        uses: actions/setup-python@v5 
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
@@ -25,11 +26,11 @@ jobs:
         env:
           NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
         run: |
-          # Verifica se o arquivo existe antes de tentar rodar
-          if [ -f "nasa_apod.py" ]; then
-            python nasa_apod.py
+          # O comando agora chama nasa.py
+          if [ -f "nasa.py" ]; then
+            python nasa.py
           else
-            echo "Erro: nasa_apod.py não encontrado na raiz."
+            echo "Erro: O arquivo nasa.py não foi encontrado na raiz do repositório."
             exit 1
           fi
 
