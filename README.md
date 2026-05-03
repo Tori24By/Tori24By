@@ -103,11 +103,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Seeing Titan
+#### 🌌 Trifid Pillars and Jets
 
-<img src='https://apod.nasa.gov/apod/image/2605/PIA21923_fig1SeeingTitan1024.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2605/TrifidPillar_Hubble_960.jpg' width='400' />
 
-> Shrouded in a thick atmosphere, the surface of Saturn's largest moon, Titan, is really hard to see. Small particles suspended in Titan's upper atmosphere cause an almost impenetrable haze, strongly scattering light at visible wavelengths and hiding surface features from prying eyes. Still, Titan's s...
+> Dust pillars are like interstellar mountains.  They survive because they are more dense than their surroundings, but they are slowly being  eroded away by a hostile environment.  Visible in the featured picture by the Hubble Space Telescope is the end of a huge gas and dust pillar in the Trifid Nebu...
 
 </div>
 <!-- NASA-APOD:END -->
