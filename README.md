@@ -95,6 +95,7 @@
 
 <p>Artigos</p> <br>
 <!-- BLOG-POST-LIST:START -->
+- [Como automatizar sua rotina: Organização com Markdown e IA](https://dev.to/vitoria_de_lima_boin/como-automatizar-sua-rotina-organizacao-com-markdown-e-ia-3ked)
 <!-- BLOG-POST-LIST:END -->
 
 
