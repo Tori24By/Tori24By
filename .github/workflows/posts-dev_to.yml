@@ -6,22 +6,22 @@ on:
 
 jobs:
   update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@v1
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://dev.to/feed/vitoria_de_lima_boin"
-          max_post_count: 3
-          disable_items_markdown: true
-          template: "$items" 
+          max_post_count: 5
+          disable_items_markdown: true 
           item_template: |
-            <div align="center" style="margin-bottom: 25px;">
-              <a href="$url" target="_blank">
-                <img src="$image" alt="$title" width="400px" style="border-radius: 8px; border: 1px solid #30363d;" />
-                <br/>
-                <span style="color: #58a6ff; font-family: sans-serif; text-decoration: none;">$title</span>
-              </a>
-            </div>
+            <p align="center">
+              <a href="$url" target="_blank">$title</a>
+            </p>
+          committer_username: "github-actions[bot]"
+          committer_email: "github-actions[bot]@users.noreply.github.com"
