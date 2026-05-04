@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Trifid Pillars and Jets
+#### 🌌 Superplumes Inside Earth
 
-<img src='https://apod.nasa.gov/apod/image/2605/TrifidPillar_Hubble_960.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2605/SuperPlumeEarth_Cottaar.mp4' width='400' />
 
-> Dust pillars are like interstellar mountains.  They survive because they are more dense than their surroundings, but they are slowly being  eroded away by a hostile environment.  Visible in the featured picture by the Hubble Space Telescope is the end of a huge gas and dust pillar in the Trifid Nebu...
+> Why are there huge, unusual masses inside the Earth? No one is sure.  By noting how earthquakes rumble through our planet's interior, humanity has discovered two deep structures that appear to have unusual temperatures and/or chemical compositions. One hypothesis holds that the superplumes are sunke...
 
 </div>
 <!-- NASA-APOD:END -->
