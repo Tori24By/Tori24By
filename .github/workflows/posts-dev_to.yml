@@ -2,14 +2,14 @@ name: Latest blog post workflow
 on:
   schedule:
     - cron: '0 */12 * * *'
-  workflow_dispatch: 
+  workflow_dispatch:
 
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write 
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -17,11 +17,11 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://dev.to/feed/vitoria_de_lima_boin"
-          max_post_count: 5
-          disable_items_markdown: true 
+          max_post_count: 3
           item_template: |
-            <p align="center">
-              <a href="$url" target="_blank">$title</a>
-            </p>
+            <a href="$url">
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=vitoriadelimaboin&repo=$title&show_owner=true&theme=radical" alt="$title" />
+            </a>
+            <br/>
           committer_username: "github-actions[bot]"
           committer_email: "github-actions[bot]@users.noreply.github.com"
