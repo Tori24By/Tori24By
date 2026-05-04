@@ -3,6 +3,7 @@ on:
   schedule:
     - cron: '0 */12 * * *'
   workflow_dispatch: 
+
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
@@ -17,10 +18,14 @@ jobs:
         with:
           feed_list: "https://dev.to/feed/vitoria_de_lima_boin"
           max_post_count: 3
+          disable_items_markdown: true 
           item_template: |
-            <a href="$url" target="_blank">
-              <img src="https://img.shields.io/badge/-%20$title%20-black?style=for-the-badge&logo=dev.to&logoColor=white" alt="$title" />
-            </a>
-            <br/>
+            <div align="center" style="margin-bottom: 20px;">
+              <a href="$url" target="_blank">
+                <img src="$image" alt="$title" width="400px" style="border-radius: 8px; margin-bottom: 10px;" />
+                <br/>
+                <span style="font-family: sans-serif; text-decoration: none;">$title</span>
+              </a>
+            </div>
           committer_username: "github-actions[bot]"
           committer_email: "github-actions[bot]@users.noreply.github.com"
