@@ -94,10 +94,6 @@
 <h3 align="center">Latest Intelligence / 最新の知性</h3>
 
 <!-- BLOG-POST-LIST:START -->
-<p align="center">
-  <i>Aguardando o primeiro mergulho...</i><br><br>
-  <code>[ █ █ █ █ ░ ░ ░ ░ ░ ░ ] 40% Loading Feed</code>
-</p>
 <!-- BLOG-POST-LIST:END -->
 
 <!-- NASA-APOD:START -->
