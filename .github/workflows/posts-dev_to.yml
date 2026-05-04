@@ -2,14 +2,13 @@ name: Latest blog post workflow
 on:
   schedule:
     - cron: '0 */12 * * *'
-  workflow_dispatch: 
-
+  workflow_dispatch:
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write 
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -19,12 +18,13 @@ jobs:
           feed_list: "https://dev.to/feed/vitoria_de_lima_boin"
           max_post_count: 3
           disable_items_markdown: true 
+          template: "$items" 
           item_template: |
             <div align="center" style="margin-bottom: 20px;">
               <a href="$url" target="_blank">
                 <img src="$image" alt="$title" width="400px" style="border-radius: 8px; margin-bottom: 10px;" />
                 <br/>
-                <span style="font-family: sans-serif; text-decoration: none;">$title</span>
+                <span style="font-family: sans-serif; text-decoration: none; color: #58a6ff;">$title</span>
               </a>
             </div>
           committer_username: "github-actions[bot]"
