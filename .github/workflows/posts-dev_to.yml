@@ -1,15 +1,16 @@
 name: Latest blog post workflow
 on:
   schedule:
+    # Atualiza automaticamente a cada 12 horas
     - cron: '0 */12 * * *'
-  workflow_dispatch:
+  workflow_dispatch: # Permite rodar manualmente na aba Actions
 
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     permissions:
-      contents: write 
+      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -18,9 +19,10 @@ jobs:
         with:
           feed_list: "https://dev.to/feed/vitoria_de_lima_boin"
           max_post_count: 3
+          # Template em HTML puro para um visual clean e centralizado
           item_template: |
-            <a href="$url">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=vitoriadelimaboin&repo=$title&show_owner=true&theme=radical" alt="$title" />
+            <a href="$url" target="_blank">
+              <img src="https://img.shields.io/badge/-%20$title%20-black?style=for-the-badge&logo=dev.to&logoColor=white" alt="$title" />
             </a>
             <br/>
           committer_username: "github-actions[bot]"
