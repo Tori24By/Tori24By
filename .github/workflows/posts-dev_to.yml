@@ -13,4 +13,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://dev.to/feed/vitoriadelimaboin"
+          feed_list: "https://dev.to/feed/vitoria_de_lima_boin"
