@@ -94,7 +94,8 @@
 <h3 align="center">Latest Intelligence / 最新の知性</h3>
 
 <div align="center">
-<!-- BLOG-POST-LIST:START -->$items<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 <br/>
 </div>
 
