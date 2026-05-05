@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Superplumes Inside Earth
+#### 🌌 Orion over Mount Teide
 
-<img src='https://apod.nasa.gov/apod/image/2605/SuperPlumeEarth_Cottaar.mp4' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2605/OrionTeide_Rosadzinski_960.jpg' width='400' />
 
-> Why are there huge, unusual masses inside the Earth? No one is sure.  By noting how earthquakes rumble through our planet's interior, humanity has discovered two deep structures that appear to have unusual temperatures and/or chemical compositions. One hypothesis holds that the superplumes are sunke...
+> Orion is rarely seen like this.  To achieve this majestic vista, you need a camera capable of taking such long duration exposures that faint features in the night sky become revealed.  Iconic nebulas that appear include the Orion Nebula, the Flame Nebula, and Barnard's Loop. For contrast, it also he...
 
 </div>
 <!-- NASA-APOD:END -->
