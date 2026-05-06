@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Orion over Mount Teide
+#### 🌌 The Retrograde Dance of Saturn and Neptune
 
-<img src='https://apod.nasa.gov/apod/image/2605/OrionTeide_Rosadzinski_960.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2605/saturn_neptune_retrograde_1024.jpg' width='400' />
 
-> Orion is rarely seen like this.  To achieve this majestic vista, you need a camera capable of taking such long duration exposures that faint features in the night sky become revealed.  Iconic nebulas that appear include the Orion Nebula, the Flame Nebula, and Barnard's Loop. For contrast, it also he...
+> What does it mean for Saturn and Neptune to be in retrograde? Featured is a composite of images taken over 34 nights from May 2025 to February 2026 tracing Saturn (brighter, foreground) and Neptune (dimmer, background). Over that time, the two planets exhibited retrograde motion, meaning they appear...
 
 </div>
 <!-- NASA-APOD:END -->
