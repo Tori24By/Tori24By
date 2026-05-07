@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 The Retrograde Dance of Saturn and Neptune
+#### 🌌 Supernova in a Sideways Spiral
 
-<img src='https://apod.nasa.gov/apod/image/2605/saturn_neptune_retrograde_1024.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2605/supernova.mp4' width='400' />
 
-> What does it mean for Saturn and Neptune to be in retrograde? Featured is a composite of images taken over 34 nights from May 2025 to February 2026 tracing Saturn (brighter, foreground) and Neptune (dimmer, background). Over that time, the two planets exhibited retrograde motion, meaning they appear...
+> A long time ago, in a distant galaxy, a massive star was destroyed in a supernova explosion. The light of this event travelled for tens of millions of years and reached Earth last week as Supernova 2026kid. The featured video shows a time-lapse over three nights of the host galaxy NGC 5907, an edge-...
 
 </div>
 <!-- NASA-APOD:END -->
