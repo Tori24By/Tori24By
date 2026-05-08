@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Supernova in a Sideways Spiral
+#### 🌌 Comet R3 PanSTARRS Before Rigel
 
-<img src='https://apod.nasa.gov/apod/image/2605/supernova.mp4' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2605/CometRigel_Karuk_960.jpg' width='400' />
 
-> A long time ago, in a distant galaxy, a massive star was destroyed in a supernova explosion. The light of this event travelled for tens of millions of years and reached Earth last week as Supernova 2026kid. The featured video shows a time-lapse over three nights of the host galaxy NGC 5907, an edge-...
+> Which way is Comet R3 PanSTARRS going? Not towards the star at the top of the image, because that is Rigel, which, being far in the background, is unrelated to the comet. Not through the nebula in the image middle, because that is the Witch Head Nebula and it, too, is far in the distance -- but not ...
 
 </div>
 <!-- NASA-APOD:END -->
