@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Comet R3 PanSTARRS Before Rigel
+#### 🌌 Messier Craters in Stereo
 
-<img src='https://apod.nasa.gov/apod/image/2605/CometRigel_Karuk_960.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2605/MessierCrater3d_vantuyne1024c.jpg' width='400' />
 
-> Which way is Comet R3 PanSTARRS going? Not towards the star at the top of the image, because that is Rigel, which, being far in the background, is unrelated to the comet. Not through the nebula in the image middle, because that is the Witch Head Nebula and it, too, is far in the distance -- but not ...
+> Many bright nebulae and star clusters in planet Earth's sky are associated with the name of astronomer Charles Messier from his famous 18th century catalog. His name is also given to these two large and remarkable craters on the Moon. Standouts in the dark, smooth lunar Sea of Fertility or Mare Fecu...
 
 </div>
 <!-- NASA-APOD:END -->
