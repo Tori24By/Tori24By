@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Messier Craters in Stereo
+#### 🌌 Comet R3 PanSTARRS and Orion
 
-<img src='https://apod.nasa.gov/apod/image/2605/MessierCrater3d_vantuyne1024c.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2605/CometOrion_Perrot_960_annotated.jpg' width='400' />
 
-> Many bright nebulae and star clusters in planet Earth's sky are associated with the name of astronomer Charles Messier from his famous 18th century catalog. His name is also given to these two large and remarkable craters on the Moon. Standouts in the dark, smooth lunar Sea of Fertility or Mare Fecu...
+> Orion never had a sword like this. As Comet C/2025 R3 (PanSTARRS) heads out of the inner Solar System, it is putting on quite a show for long exposure cameras.  Currently seen toward the constellation of Orion the Hunter, the distant Orion Nebula is visible on the upper right. Comet R3 PanSTARRS is ...
 
 </div>
 <!-- NASA-APOD:END -->
