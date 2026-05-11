@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Comet R3 PanSTARRS and Orion
+#### 🌌 Moon Setting Behind Teide Volcano
 
-<img src='https://apod.nasa.gov/apod/image/2605/CometOrion_Perrot_960_annotated.jpg' width='400' />
+<img src='https://www.youtube.com/embed/afHfMMC-MJE?rel=0' width='400' />
 
-> Orion never had a sword like this. As Comet C/2025 R3 (PanSTARRS) heads out of the inner Solar System, it is putting on quite a show for long exposure cameras.  Currently seen toward the constellation of Orion the Hunter, the distant Orion Nebula is visible on the upper right. Comet R3 PanSTARRS is ...
+> These people are not in danger. What is coming down from the left is just the Moon, far in the distance. Luna appears so large here because she is being photographed through a telescopic lens.  What is moving is mostly the Earth, whose spin causes the Moon to slowly disappear behind Mount Teide, a v...
 
 </div>
 <!-- NASA-APOD:END -->
