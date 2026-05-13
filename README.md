@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 The Conjunction of Comet R3 PanSTARRS and the Orion Nebula
+#### 🌌 NGC 188: Old Cluster in the New General Catalog
 
-<img src='https://apod.nasa.gov/apod/image/2605/CometR3_Orion.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2605/Polarissima1024.jpg' width='400' />
 
-> Today’s composite image features something old, something new, something borrowed, and something blue! Comet R3 PanSTARRS, streaking across the right of the image, likely originated from the Oort Cloud, meaning it is an old Solar System relic from billions of years ago. It’s bright extended ion tail...
+> The New General Catalog of star clusters and nebulae really isn't so new. In fact, it was published in 1888 - an effort by J. L. E. Dreyer to consolidate the work of astronomers William, Caroline, and John Herschel along with others into a useful single, complete catalog of astronomical discoveries ...
 
 </div>
 <!-- NASA-APOD:END -->
