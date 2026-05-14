@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 NGC 188: Old Cluster in the New General Catalog
+#### 🌌 Messier Catalog at Uniform Scale
 
-<img src='https://apod.nasa.gov/apod/image/2605/Polarissima1024.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2605/messier_portrait_100px_160h.jpg' width='400' />
 
-> The New General Catalog of star clusters and nebulae really isn't so new. In fact, it was published in 1888 - an effort by J. L. E. Dreyer to consolidate the work of astronomers William, Caroline, and John Herschel along with others into a useful single, complete catalog of astronomical discoveries ...
+> What are some of the most interesting astronomical objects you can see in the night sky?   Armed with a good pair of binoculars or a small telescope, if you live in the Northern Hemisphere, you can look for the very popular objects in the Messier Catalog.   Most of them, but not all, are also visibl...
 
 </div>
 <!-- NASA-APOD:END -->
