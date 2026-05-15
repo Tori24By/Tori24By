@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Messier Catalog at Uniform Scale
+#### 🌌 R3 PanSTARRS: An Orion Comet
 
-<img src='https://apod.nasa.gov/apod/image/2605/messier_portrait_100px_160h.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2605/R3Orion_Hall_960.jpg' width='400' />
 
-> What are some of the most interesting astronomical objects you can see in the night sky?   Armed with a good pair of binoculars or a small telescope, if you live in the Northern Hemisphere, you can look for the very popular objects in the Messier Catalog.   Most of them, but not all, are also visibl...
+> Comet R3 PanSTARRS might be best remembered as an Orion comet.  A key reason is because Comet C/2025 R3 (PanSTARRS) was near its most spectacular -- in terms of tail visibility -- when passing in front of the iconic constellation.  Although rare, other bright comets, too, have ventured across Orion,...
 
 </div>
 <!-- NASA-APOD:END -->
