@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 R3 PanSTARRS: An Orion Comet
+#### 🌌 Aurora Slathers Up the Sky
 
-<img src='https://apod.nasa.gov/apod/image/2605/R3Orion_Hall_960.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2605/aurora_iss052e007857_1024.jpg' width='400' />
 
-> Comet R3 PanSTARRS might be best remembered as an Orion comet.  A key reason is because Comet C/2025 R3 (PanSTARRS) was near its most spectacular -- in terms of tail visibility -- when passing in front of the iconic constellation.  Although rare, other bright comets, too, have ventured across Orion,...
+> Like salsa verde on your favorite burrito, a green aurora slathers up the sky in this 2017 June 25 snapshot from the International Space Station. About 400 kilometers (250 miles) above Earth, the orbiting station is itself within the upper realm of the auroral displays. Aurorae have the signature co...
 
 </div>
 <!-- NASA-APOD:END -->
