@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Aurora Slathers Up the Sky
+#### 🌌 NGC 1300: Barred Spiral Galaxy
 
-<img src='https://apod.nasa.gov/apod/image/2605/aurora_iss052e007857_1024.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2605/NGC1300_HST_1080.jpg' width='400' />
 
-> Like salsa verde on your favorite burrito, a green aurora slathers up the sky in this 2017 June 25 snapshot from the International Space Station. About 400 kilometers (250 miles) above Earth, the orbiting station is itself within the upper realm of the auroral displays. Aurorae have the signature co...
+> Across the center of this spiral galaxy is a bar.  And at the center of this bar is smaller spiral.  And at the center of that spiral is a supermassive black hole.  This all happens in the big, beautiful, barred spiral galaxy cataloged as NGC 1300, a galaxy that lies some 70 million light-years away...
 
 </div>
 <!-- NASA-APOD:END -->
