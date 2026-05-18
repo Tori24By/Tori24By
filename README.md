@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 NGC 1300: Barred Spiral Galaxy
+#### 🌌 Unraveling NGC 3169
 
-<img src='https://apod.nasa.gov/apod/image/2605/NGC1300_HST_1080.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2605/ngc3169_ngc3166_ngc3165px1024.jpg' width='400' />
 
-> Across the center of this spiral galaxy is a bar.  And at the center of this bar is smaller spiral.  And at the center of that spiral is a supermassive black hole.  This all happens in the big, beautiful, barred spiral galaxy cataloged as NGC 1300, a galaxy that lies some 70 million light-years away...
+> Spiral galaxy NGC 3169 looks to be unraveling like a ball of cosmic yarn. It lies some 70 million light-years away, south of bright star Regulus toward the faint constellation Sextans. Wound up spiral arms are pulled out into sweeping tidal tails as NGC 3169 (left) and neighboring NGC 3166 interact ...
 
 </div>
 <!-- NASA-APOD:END -->
