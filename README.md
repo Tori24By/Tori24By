@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 NGC 2170: The Angel Nebula
+#### 🌌 The Dark Wolf Nebula
 
-<img src='https://apod.nasa.gov/apod/image/2605/Angel_Marriott_960.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2605/dark_wolf_1024.jpg' width='400' />
 
-> Is this a painting or a photograph? In this celestial abstract art composed with a cosmic brush, dusty nebula NGC 2170, also known as the Angel Nebula, shines just above the image center. Reflecting the light of nearby hot stars, NGC 2170 is joined by other bluish reflection nebulae, a red emission ...
+> A dark wolf lies in gum. No, this isn’t a riddle! Today's image features the Dark Wolf Nebula (Sandqvist–Lindroos 17), a spooky dust cloud embedded within the Gum 55 (RCW 113) Nebula in the Scorpius constellation. While dust is a pest to us, it serves a vital role in creating the necessary condition...
 
 </div>
 <!-- NASA-APOD:END -->
