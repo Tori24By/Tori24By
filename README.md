@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 A Collision of Galaxy Clusters
+#### 🌌 The Nebulous Realm of WR 134
 
-<img src='https://apod.nasa.gov/apod/image/2605/a2029.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2605/WR134morrone1024.jpg' width='400' />
 
-> This big beautiful spiral shines in X-ray light. It is about 20 times larger than our Galaxy.   It belongs to Abell 2029, a galaxy cluster one billion light-years away.   (To see only the galaxies, hover your cursor over the image, or follow this link.)      Galaxy clusters are the largest structure...
+> This cosmic snapshot covers a field of view over twice as wide as the full Moon within the boundaries of the high-flying constellation Cygnus. Made using astronomical narrowband filters, the image highlights the bright edge of a ring-like nebula traced by the glow of ionized hydrogen and oxygen gas....
 
 </div>
 <!-- NASA-APOD:END -->
