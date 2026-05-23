@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 The Nebulous Realm of WR 134
+#### 🌌 Messier 2
 
-<img src='https://apod.nasa.gov/apod/image/2605/WR134morrone1024.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2605/potw1913aM2_1024.jpg' width='400' />
 
-> This cosmic snapshot covers a field of view over twice as wide as the full Moon within the boundaries of the high-flying constellation Cygnus. Made using astronomical narrowband filters, the image highlights the bright edge of a ring-like nebula traced by the glow of ionized hydrogen and oxygen gas....
+> After the Crab Nebula, this giant star cluster is the second entry in 18th century astronomer Charles Messier's famous list of things that are not comets. M2 is one of the largest globular star clusters now known to roam the halo of our Milky Way galaxy. Though Messier originally described it as a n...
 
 </div>
 <!-- NASA-APOD:END -->
