@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 A Martian Eclipse: Phobos Crosses the Sun
+#### 🌌 Thackeray's Globules
 
-<img src='https://apod.nasa.gov/apod/image/2605/MarsEclipse_perseverance.mp4' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2605/ThackerayGlobs_Hayes_960.jpg' width='400' />
 
-> What's that passing in front of the Sun? It looks like a moon, but it can't be Earth's Moon, because it isn't round. It's the Martian moon Phobos.  The featured video was taken from the surface of Mars in 2022 by the Perseverance rover. Phobos, at 11.5 kilometers across, is 150 times smaller than Lu...
+> What are these strange space globs?  Situated in rich star fields and glowing hydrogen gas, these opaque clouds of interstellar dust and gas are so large they might be able to form stars. Their home is known as IC 2944, a bright stellar nursery located about 7,600 light years away toward the constel...
 
 </div>
 <!-- NASA-APOD:END -->
