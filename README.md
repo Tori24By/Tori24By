@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Thackeray's Globules
+#### 🌌 NGC 3660 and Burçin's Galaxy
 
-<img src='https://apod.nasa.gov/apod/image/2605/ThackerayGlobs_Hayes_960.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2605/Ngc3660Burcin_Block_960.jpg' width='400' />
 
-> What are these strange space globs?  Situated in rich star fields and glowing hydrogen gas, these opaque clouds of interstellar dust and gas are so large they might be able to form stars. Their home is known as IC 2944, a bright stellar nursery located about 7,600 light years away toward the constel...
+> The upper galaxy might be more photogenic, but the lower galaxy is more unusual.  The galaxy up top is NGC 3660, a spiral galaxy similar to our own Milky Way galaxy in that it has several bright blue spiral arms and a central bar of stars, dust, and gas. Captured by chance in the featured deep and c...
 
 </div>
 <!-- NASA-APOD:END -->
