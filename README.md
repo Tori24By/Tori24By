@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 NGC 3660 and Burçin's Galaxy
+#### 🌌 PK 164 +31.1: The Headphone Nebula
 
-<img src='https://apod.nasa.gov/apod/image/2605/Ngc3660Burcin_Block_960.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2605/headphone_nebula_900.jpg' width='400' />
 
-> The upper galaxy might be more photogenic, but the lower galaxy is more unusual.  The galaxy up top is NGC 3660, a spiral galaxy similar to our own Milky Way galaxy in that it has several bright blue spiral arms and a central bar of stars, dust, and gas. Captured by chance in the featured deep and c...
+> What is a pair of headphones doing in the sky? Today’s image features the Headphone Nebula, also known as PK 164 +31.1 or Jones-Emberson 1. This planetary nebula, the remnant of a dying Sun-like star, faintly occupies an angular region of the Lynx constellation about 1/5th the diameter of the full m...
 
 </div>
 <!-- NASA-APOD:END -->
