@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 PK 164 +31.1: The Headphone Nebula
+#### 🌌 NGC 1514: The Crystal Ball Nebula
 
-<img src='https://apod.nasa.gov/apod/image/2605/headphone_nebula_900.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2605/noirlab2613a.jpg' width='400' />
 
-> What is a pair of headphones doing in the sky? Today’s image features the Headphone Nebula, also known as PK 164 +31.1 or Jones-Emberson 1. This planetary nebula, the remnant of a dying Sun-like star, faintly occupies an angular region of the Lynx constellation about 1/5th the diameter of the full m...
+> What do you see in this crystal ball?   The featured image shows NGC 1514, known as the Crystal Ball Nebula, observed by the Gemini North telescope on Maunakea, in Hawai'i.   NGC 1514 is 1,500 light-years away and was discovered by William Herschel in 1790.   This planetary nebula is formed when a s...
 
 </div>
 <!-- NASA-APOD:END -->
