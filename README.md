@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 NGC 1514: The Crystal Ball Nebula
+#### 🌌 Messier 104
 
-<img src='https://apod.nasa.gov/apod/image/2605/noirlab2613a.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2605/M104noirlab2612a_1024.jpg' width='400' />
 
-> What do you see in this crystal ball?   The featured image shows NGC 1514, known as the Crystal Ball Nebula, observed by the Gemini North telescope on Maunakea, in Hawai'i.   NGC 1514 is 1,500 light-years away and was discovered by William Herschel in 1790.   This planetary nebula is formed when a s...
+> A gorgeous spiral galaxy, Messier 104 is famous for its nearly edge-on profile featuring a broad ring of obscuring dust lanes. Seen in silhouette against an extensive central bulge of stars, the swath of cosmic dust lends a broad brimmed hat-like appearance to the galaxy suggesting a more popular mo...
 
 </div>
 <!-- NASA-APOD:END -->
