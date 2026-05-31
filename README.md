@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Messier 104
+#### 🌌 Eagle Nebula Pillars in Infrared from Hubble
 
-<img src='https://apod.nasa.gov/apod/image/2605/M104noirlab2612a_1024.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2605/M16Ir_HubbleRomero_960.jpg' width='400' />
 
-> A gorgeous spiral galaxy, Messier 104 is famous for its nearly edge-on profile featuring a broad ring of obscuring dust lanes. Seen in silhouette against an extensive central bulge of stars, the swath of cosmic dust lends a broad brimmed hat-like appearance to the galaxy suggesting a more popular mo...
+> Newborn stars are forming in the Eagle Nebula.  They are gravitationally contracting in pillars of dense gas and dust.  The intense radiation of these newly-formed bright stars is causing surrounding material to boil away. This image, taken with the Hubble Space Telescope in near infrared light, all...
 
 </div>
 <!-- NASA-APOD:END -->
