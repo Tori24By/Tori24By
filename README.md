@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Eagle Nebula Pillars in Infrared from Hubble
+#### 🌌 Jupiter and Venus from Earth
 
-<img src='https://apod.nasa.gov/apod/image/2605/M16Ir_HubbleRomero_960.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2606/JupiterPersonVenus_Nikodem_960.jpg' width='400' />
 
-> Newborn stars are forming in the Eagle Nebula.  They are gravitationally contracting in pillars of dense gas and dust.  The intense radiation of these newly-formed bright stars is causing surrounding material to boil away. This image, taken with the Hubble Space Telescope in near infrared light, all...
+> It was visible around the world. The sunset conjunction of Jupiter (left) and Venus (right) in 2012 was visible almost no matter where you lived on Earth.  Anyone on our planet with a clear western horizon at sunset could see them. That year, a creative photographer traveled away from the town light...
 
 </div>
 <!-- NASA-APOD:END -->
