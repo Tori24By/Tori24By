@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Jupiter and Venus from Earth
+#### 🌌 Comet R3 PanSTARRS Through Time
 
-<img src='https://apod.nasa.gov/apod/image/2606/JupiterPersonVenus_Nikodem_960.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2606/R3Tails_Kurak_960.jpg' width='400' />
 
-> It was visible around the world. The sunset conjunction of Jupiter (left) and Venus (right) in 2012 was visible almost no matter where you lived on Earth.  Anyone on our planet with a clear western horizon at sunset could see them. That year, a creative photographer traveled away from the town light...
+> What happens to a comet as it leaves our inner Solar System?  Now, the arrival of a comet into the inner Solar System is typically heralded with great fanfare and high hopes that the comet will become bright and photogenic. But on the way out, the comet's nucleus is less warmed by the Sun, less gas ...
 
 </div>
 <!-- NASA-APOD:END -->
