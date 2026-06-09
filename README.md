@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Comet R3 PanSTARRS Through Time
+#### 🌌 Thor's Helmet
 
-<img src='https://apod.nasa.gov/apod/image/2606/R3Tails_Kurak_960.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2606/Thor_Drudis_960.jpg' width='400' />
 
-> What happens to a comet as it leaves our inner Solar System?  Now, the arrival of a comet into the inner Solar System is typically heralded with great fanfare and high hopes that the comet will become bright and photogenic. But on the way out, the comet's nucleus is less warmed by the Sun, less gas ...
+> Thor not only has his own day (Thursday), but a helmet in the heavens.  Popularly called Thor's Helmet, NGC 2359 is a hat-shaped cosmic cloud with wing-like appendages. Heroically sized even for a Norse god, Thor's Helmet is about 30 light-years across. In fact, the cosmic head-covering is more like...
 
 </div>
 <!-- NASA-APOD:END -->
