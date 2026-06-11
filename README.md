@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Thor's Helmet
+#### 🌌 The Mermaid Nebula Supernova Remnant
 
-<img src='https://apod.nasa.gov/apod/image/2606/Thor_Drudis_960.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2606/Mermaid_1024.jpg' width='400' />
 
-> Thor not only has his own day (Thursday), but a helmet in the heavens.  Popularly called Thor's Helmet, NGC 2359 is a hat-shaped cosmic cloud with wing-like appendages. Heroically sized even for a Norse god, Thor's Helmet is about 30 light-years across. In fact, the cosmic head-covering is more like...
+> Could the Little Mermaid turn into stardust instead of seafoam?   It would seem so in this beautiful nebula.   The featured image shows the Mermaid Nebula, also known as the Betta Fish Nebula, which is part of the G296.5+10.0 Supernova Remnant.   The blue color visible here originates from doubly io...
 
 </div>
 <!-- NASA-APOD:END -->
