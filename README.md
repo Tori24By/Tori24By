@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 The Mermaid Nebula Supernova Remnant
+#### 🌌 10 Days of Venus and Jupiter
 
-<img src='https://apod.nasa.gov/apod/image/2606/Mermaid_1024.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2606/VenusJupiter10_Pawar_1080.jpg' width='400' />
 
-> Could the Little Mermaid turn into stardust instead of seafoam?   It would seem so in this beautiful nebula.   The featured image shows the Mermaid Nebula, also known as the Betta Fish Nebula, which is part of the G296.5+10.0 Supernova Remnant.   The blue color visible here originates from doubly io...
+> Venus and Jupiter may have caught your attention lately.  The  recent close conjunction of the two brightest planets in recent evening skies has been hard to miss. With Jupiter at the top, starting on May 30 and ending on June 8, their close approach was chronicled daily, left to right, in the featu...
 
 </div>
 <!-- NASA-APOD:END -->
