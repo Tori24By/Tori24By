@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 10 Days of Venus and Jupiter
+#### 🌌 Triple Shockwave from Sun Crossing Rocket
 
-<img src='https://apod.nasa.gov/apod/image/2606/VenusJupiter10_Pawar_1080.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2606/TripleSunShock_Winkopp_960.jpg' width='400' />
 
-> Venus and Jupiter may have caught your attention lately.  The  recent close conjunction of the two brightest planets in recent evening skies has been hard to miss. With Jupiter at the top, starting on May 30 and ending on June 8, their close approach was chronicled daily, left to right, in the featu...
+> What's happening to this Sun-crossing rocket?  The SpaceX Falcon 9 rocket, visible on the upper left, launched only about one minute before this amazing image was captured.  As it rose to low Earth orbit from Cape Canaveral, Florida, USA,  in late May, the rocket became supersonic before it crossed ...
 
 </div>
 <!-- NASA-APOD:END -->
