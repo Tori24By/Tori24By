@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Triple Shockwave from Sun Crossing Rocket
+#### 🌌 Starry Night II
 
-<img src='https://apod.nasa.gov/apod/image/2606/TripleSunShock_Winkopp_960.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2606/StarryNight2_Guerra_960.jpg' width='400' />
 
-> What's happening to this Sun-crossing rocket?  The SpaceX Falcon 9 rocket, visible on the upper left, launched only about one minute before this amazing image was captured.  As it rose to low Earth orbit from Cape Canaveral, Florida, USA,  in late May, the rocket became supersonic before it crossed ...
+> Does this scene look familiar? It is a modern recreation of the famous painting Starry Night by Vincent van Gogh.  Both the image and the painting depict a tall tree on the left, a crescent moon on the upper right, the planet Venus just to the right of the tree, a foreground horizon rising from left...
 
 </div>
 <!-- NASA-APOD:END -->
