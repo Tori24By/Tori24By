@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Starry Night II
+#### 🌌 M27: The Dumbbell Nebula
 
-<img src='https://apod.nasa.gov/apod/image/2606/StarryNight2_Guerra_960.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2606/M27_antonucci_960.jpg' width='400' />
 
-> Does this scene look familiar? It is a modern recreation of the famous painting Starry Night by Vincent van Gogh.  Both the image and the painting depict a tall tree on the left, a crescent moon on the upper right, the planet Venus just to the right of the tree, a foreground horizon rising from left...
+> Is this what will become of our Sun? Quite possibly.  The first hint of our Sun's future was discovered inadvertently in 1764. At that time, Charles Messier was compiling a list of diffuse objects not to be confused with comets. The 27th object on Messier's list, now known as M27 or the Dumbbell Neb...
 
 </div>
 <!-- NASA-APOD:END -->
