@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 M27: The Dumbbell Nebula
+#### 🌌 Flying Past Neptune's Moon Triton
 
-<img src='https://apod.nasa.gov/apod/image/2606/M27_antonucci_960.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2606/TritonPass_voyager2.mp4' width='400' />
 
-> Is this what will become of our Sun? Quite possibly.  The first hint of our Sun's future was discovered inadvertently in 1764. At that time, Charles Messier was compiling a list of diffuse objects not to be confused with comets. The 27th object on Messier's list, now known as M27 or the Dumbbell Neb...
+> What would it look like to fly past Triton, the largest moon of planet Neptune?  Only one spacecraft has ever done this -- and the images of this dramatic encounter have been gathered into a video.  In 1989, the Voyager 2 robotic spacecraft shot through the Neptune system with cameras blazing.  Trit...
 
 </div>
 <!-- NASA-APOD:END -->
