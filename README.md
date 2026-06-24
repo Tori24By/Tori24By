@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Flying Past Neptune's Moon Triton
+#### 🌌 SDO Observes a Coronal Mass Ejection
 
-<img src='https://apod.nasa.gov/apod/image/2606/TritonPass_voyager2.mp4' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2606/sdo_cme.mp4' width='400' />
 
-> What would it look like to fly past Triton, the largest moon of planet Neptune?  Only one spacecraft has ever done this -- and the images of this dramatic encounter have been gathered into a video.  In 1989, the Voyager 2 robotic spacecraft shot through the Neptune system with cameras blazing.  Trit...
+> Why does the Sun throw stuff at us? The Sun’s surface is a churning soup of energetic electrons and ions called plasma. The motion of those charged particles creates magnetic field loops that are larger than the Earth. These loops twist, turn, and trap plasma. The featured time-lapse, taken over 2 h...
 
 </div>
 <!-- NASA-APOD:END -->
