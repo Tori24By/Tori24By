@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 SDO Observes a Coronal Mass Ejection
+#### 🌌 Anticrepuscular Rays over Sicily
 
-<img src='https://apod.nasa.gov/apod/image/2606/sdo_cme.mp4' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2606/crepuscular2_1024.jpg' width='400' />
 
-> Why does the Sun throw stuff at us? The Sun’s surface is a churning soup of energetic electrons and ions called plasma. The motion of those charged particles creates magnetic field loops that are larger than the Earth. These loops twist, turn, and trap plasma. The featured time-lapse, taken over 2 h...
+> The Sun has just set... in the opposite side of the sky.   Pictured here are anticrepuscular rays apparently converging in the east in this image of the limestone plateau in the heart of the Hyblaean Mountains of southeastern Sicily, in Italy.   How were these anticrepuscular rays formed, if the Sun...
 
 </div>
 <!-- NASA-APOD:END -->
