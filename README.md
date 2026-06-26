@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Anticrepuscular Rays over Sicily
+#### 🌌 Milky Way Urban Style
 
-<img src='https://apod.nasa.gov/apod/image/2606/crepuscular2_1024.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2606/MilkyWaySeoulShingooLee800.jpg' width='400' />
 
-> The Sun has just set... in the opposite side of the sky.   Pictured here are anticrepuscular rays apparently converging in the east in this image of the limestone plateau in the heart of the Hyblaean Mountains of southeastern Sicily, in Italy.   How were these anticrepuscular rays formed, if the Sun...
+> In a cosmic vista you can never see, the Milky Way arcs through the night above Seoul, South Korea. Remarkably, this urban night skyscape reveals our galaxy's faintly luminous central region and dark obscuring dust clouds in spite of the brilliant city lights. To overcome the extreme light pollution...
 
 </div>
 <!-- NASA-APOD:END -->
