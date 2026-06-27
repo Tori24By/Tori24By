@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Milky Way Urban Style
+#### 🌌 Mars Marathon by Perseverance
 
-<img src='https://apod.nasa.gov/apod/image/2606/MilkyWaySeoulShingooLee800.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2606/PIA26726_figA1024c.jpg' width='400' />
 
-> In a cosmic vista you can never see, the Milky Way arcs through the night above Seoul, South Korea. Remarkably, this urban night skyscape reveals our galaxy's faintly luminous central region and dark obscuring dust clouds in spite of the brilliant city lights. To overcome the extreme light pollution...
+> In this recent HiRISE view from the Mars Reconnaissance Orbiter, the little green dot indicated on the surface of the big Red Planet is the Perseverance Mars rover. Recorded on June 13, the car-sized, six-wheeled robot was imaged a day before completing a Martian marathon, traveling a total distance...
 
 </div>
 <!-- NASA-APOD:END -->
