@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Mars Marathon by Perseverance
+#### 🌌 AR 4478: Giant Sunspot Group
 
-<img src='https://apod.nasa.gov/apod/image/2606/PIA26726_figA1024c.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2606/AR4478_vidal_960.jpg' width='400' />
 
-> In this recent HiRISE view from the Mars Reconnaissance Orbiter, the little green dot indicated on the surface of the big Red Planet is the Perseverance Mars rover. Recorded on June 13, the car-sized, six-wheeled robot was imaged a day before completing a Martian marathon, traveling a total distance...
+> Right now, one of the largest sunspot groups in recent history is crossing the Sun.  Active Region 4478 is not only big -- it's violent, showing tangled magnetic fields capable of throwing off huge clouds of particles into the Solar System.  Some of these CMEs might impact the Earth.  At the extreme...
 
 </div>
 <!-- NASA-APOD:END -->
