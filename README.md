@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 AR 4478: Giant Sunspot Group
+#### 🌌 M82: Galaxy with a Supergalactic Wind
 
-<img src='https://apod.nasa.gov/apod/image/2606/AR4478_vidal_960.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2606/M82_HubbleWebb_960.jpg' width='400' />
 
-> Right now, one of the largest sunspot groups in recent history is crossing the Sun.  Active Region 4478 is not only big -- it's violent, showing tangled magnetic fields capable of throwing off huge clouds of particles into the Solar System.  Some of these CMEs might impact the Earth.  At the extreme...
+> Why is the Cigar Galaxy billowing red smoke?  M82, as this starburst galaxy is also known, was stirred up by a recent pass near large spiral galaxy M81.  This doesn't fully explain the source of the red-glowing outwardly expanding gas and dust, however.  Evidence indicates that this gas and dust is ...
 
 </div>
 <!-- NASA-APOD:END -->
