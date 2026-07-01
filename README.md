@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 M82: Galaxy with a Supergalactic Wind
+#### 🌌 The Cotton Candy Clouds of Rho Ophiuchi
 
-<img src='https://apod.nasa.gov/apod/image/2606/M82_HubbleWebb_960.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2607/rho_ophiuchi_800.jpg' width='400' />
 
-> Why is the Cigar Galaxy billowing red smoke?  M82, as this starburst galaxy is also known, was stirred up by a recent pass near large spiral galaxy M81.  This doesn't fully explain the source of the red-glowing outwardly expanding gas and dust, however.  Evidence indicates that this gas and dust is ...
+> Although they look like cotton candy, you cannot eat these clouds! Taken in Cádiz, Spain, today's image features the Rho Ophiuchi complex, a rich tapestry of young and old astronomical phenomena. This colorful cloud complex is a nearby star-forming region containing hundreds of young stellar objects...
 
 </div>
 <!-- NASA-APOD:END -->
