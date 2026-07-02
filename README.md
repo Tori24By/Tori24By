@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 The Cotton Candy Clouds of Rho Ophiuchi
+#### 🌌 Sibling Supernova Remnants
 
-<img src='https://apod.nasa.gov/apod/image/2607/rho_ophiuchi_800.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2607/sibling_supernovae_1024.jpg' width='400' />
 
-> Although they look like cotton candy, you cannot eat these clouds! Taken in Cádiz, Spain, today's image features the Rho Ophiuchi complex, a rich tapestry of young and old astronomical phenomena. This colorful cloud complex is a nearby star-forming region containing hundreds of young stellar objects...
+> What happens when one of the stars in a binary goes supernova?   This image combines visible (yellow), ultraviolet (purple) and infrared light (cyan, red and orange) to show two supernova remnants and their surrounding environment, about 6,000 light-years away.   The younger one is the well-known Je...
 
 </div>
 <!-- NASA-APOD:END -->
