@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Sibling Supernova Remnants
+#### 🌌 Three Galaxies in Pavo
 
-<img src='https://apod.nasa.gov/apod/image/2607/sibling_supernovae_1024.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2607/NGC6769LRGBcropAZ-1500-20-May-2026-1024.jpg' width='400' />
 
-> What happens when one of the stars in a binary goes supernova?   This image combines visible (yellow), ultraviolet (purple) and infrared light (cyan, red and orange) to show two supernova remnants and their surrounding environment, about 6,000 light-years away.   The younger one is the well-known Je...
+> Some 190 million light-years away, far beyond the bright stars and nebulae of the Milky Way, these three galaxies are drawn together by gravity in a mesmerizing cosmic dance. Clearly distorted by galactic-scale gravitational interactions, large spiral galaxies NGC6769 and NGC6770 are seen face-on, w...
 
 </div>
 <!-- NASA-APOD:END -->
