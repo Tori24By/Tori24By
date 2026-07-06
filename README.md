@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Saturn's Iapetus: Painted Moon
+#### 🌌 Dueling Bands over the Atacama Desert
 
-<img src='https://apod.nasa.gov/apod/image/2607/iapetus4_cassini_960.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2607/ZodiMw_Looten_960.jpg' width='400' />
 
-> What has happened to Saturn's moon Iapetus?  Vast sections of this strange world are dark as coal, while others are as bright as snow.  To help better understand this unusually tinted moon, in 2007 NASA directed the robotic Cassini spacecraft then orbiting Saturn to swoop within 2,000 kilometers.  P...
+> What are these two bands in the sky?  The more commonly seen band is on the left and is the central band of our Milky Way galaxy.  Our Sun orbits in the disk of this spiral galaxy so that from inside, it appears as a band of comparable brightness all the way around the sky.  The less commonly seen b...
 
 </div>
 <!-- NASA-APOD:END -->
