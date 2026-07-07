@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Dueling Bands over the Atacama Desert
+#### 🌌 NGC 6188: Dragons of Ara
 
-<img src='https://apod.nasa.gov/apod/image/2607/ZodiMw_Looten_960.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2607/AraDragons_Prazeres_1080.jpg' width='400' />
 
-> What are these two bands in the sky?  The more commonly seen band is on the left and is the central band of our Milky Way galaxy.  Our Sun orbits in the disk of this spiral galaxy so that from inside, it appears as a band of comparable brightness all the way around the sky.  The less commonly seen b...
+> Where can you find dragons fighting in the night sky?  In the southern constellation of the Altar: Ara. The dragons are, of course, actually made of suggestively shaped gas and dust.  The celestial home of the mythological battling beasts is cataloged as NGC 6188 and located about 4,000 light years ...
 
 </div>
 <!-- NASA-APOD:END -->
