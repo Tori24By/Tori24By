@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 NGC 6188: Dragons of Ara
+#### 🌌 Swift Boost Mission
 
-<img src='https://apod.nasa.gov/apod/image/2607/AraDragons_Prazeres_1080.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2607/Swift_Boost.mp4' width='400' />
 
-> Where can you find dragons fighting in the night sky?  In the southern constellation of the Altar: Ara. The dragons are, of course, actually made of suggestively shaped gas and dust.  The celestial home of the mythological battling beasts is cataloged as NGC 6188 and located about 4,000 light years ...
+> Sometimes we can all use a little help from a friend.    NASA's Neil Gehrels Swift Observatory needs a boost to stay in orbit after almost 22 years of service.   This video shows an artist's visualization of the Swift Boost Mission: The Katalyst's LINK spacecraft was launched aboard a Northrop Grumm...
 
 </div>
 <!-- NASA-APOD:END -->
