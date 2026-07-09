@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Swift Boost Mission
+#### 🌌 The Red Glow of the Cosmic Bat Nebula
 
-<img src='https://apod.nasa.gov/apod/image/2607/Swift_Boost.mp4' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2607/cosmic_bat_halpha_1024.jpg' width='400' />
 
-> Sometimes we can all use a little help from a friend.    NASA's Neil Gehrels Swift Observatory needs a boost to stay in orbit after almost 22 years of service.   This video shows an artist's visualization of the Swift Boost Mission: The Katalyst's LINK spacecraft was launched aboard a Northrop Grumm...
+> This Cosmic Bat wishes you a happy Summerween! This mid-year celebration of Halloween transcends hemispheres, even though summer in the Northern hemisphere is winter in the South. Contrary to its eery aura, the Cosmic Bat Nebula (LDN 43), not to be confused with the Bat Nebula (NGC 6995), is a vibra...
 
 </div>
 <!-- NASA-APOD:END -->
