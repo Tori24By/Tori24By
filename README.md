@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 The Red Glow of the Cosmic Bat Nebula
+#### 🌌 Western Moon, Eastern Sea
 
-<img src='https://apod.nasa.gov/apod/image/2607/cosmic_bat_halpha_1024.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2607/C14MareOrientaleGuyBardon1024.jpg' width='400' />
 
-> This Cosmic Bat wishes you a happy Summerween! This mid-year celebration of Halloween transcends hemispheres, even though summer in the Northern hemisphere is winter in the South. Contrary to its eery aura, the Cosmic Bat Nebula (LDN 43), not to be confused with the Bat Nebula (NGC 6995), is a vibra...
+> The Mare Orientale, Latin for Eastern Sea, is one of the most striking large scale lunar features. The youngest of the large lunar impact basins it's very difficult to see from an earthbound perspective. Still, captured on July 7 during a period of favorable tilt, or libration of the lunar nearside,...
 
 </div>
 <!-- NASA-APOD:END -->
