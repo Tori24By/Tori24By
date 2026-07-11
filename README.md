@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Western Moon, Eastern Sea
+#### 🌌 Messier 24: Sagittarius Star Cloud
 
-<img src='https://apod.nasa.gov/apod/image/2607/C14MareOrientaleGuyBardon1024.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2607/M24_1088.jpg' width='400' />
 
-> The Mare Orientale, Latin for Eastern Sea, is one of the most striking large scale lunar features. The youngest of the large lunar impact basins it's very difficult to see from an earthbound perspective. Still, captured on July 7 during a period of favorable tilt, or libration of the lunar nearside,...
+> Unlike most entries in Charles Messier's famous catalog of deep sky objects, M24 is not a bright galaxy, star cluster, or nebula. It's a gap in nearby, obscuring interstellar dust clouds that allows a view of the distant stars in the Sagittarius spiral arm of our Milky Way galaxy. Direct your gaze t...
 
 </div>
 <!-- NASA-APOD:END -->
