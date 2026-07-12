@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Messier 24: Sagittarius Star Cloud
+#### 🌌 Galaxy NGC 474: Shells and Star Streams
 
-<img src='https://apod.nasa.gov/apod/image/2607/M24_1088.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2607/NGC474_CfhtCoelum_960.jpg' width='400' />
 
-> Unlike most entries in Charles Messier's famous catalog of deep sky objects, M24 is not a bright galaxy, star cluster, or nebula. It's a gap in nearby, obscuring interstellar dust clouds that allows a view of the distant stars in the Sagittarius spiral arm of our Milky Way galaxy. Direct your gaze t...
+> What's happening to galaxy NGC 474?  The multiple layers of emission appear strangely complex given the relatively featureless appearance of the elliptical galaxy in less deep images.  The cause of the shells is a topic of research, but they are possibly tidal tails related to debris left over from ...
 
 </div>
 <!-- NASA-APOD:END -->
