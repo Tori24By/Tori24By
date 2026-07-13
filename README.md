@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Galaxy NGC 474: Shells and Star Streams
+#### 🌌 Auroras from Space
 
-<img src='https://apod.nasa.gov/apod/image/2607/NGC474_CfhtCoelum_960.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2607/Auroras_Esa.mp4' width='400' />
 
-> What's happening to galaxy NGC 474?  The multiple layers of emission appear strangely complex given the relatively featureless appearance of the elliptical galaxy in less deep images.  The cause of the shells is a topic of research, but they are possibly tidal tails related to debris left over from ...
+> What do auroras look like from above? Behold!  From the ground, auroras dance high above clouds, frequently causing spectacular displays.  From space, they look a bit different. As the International Space Station (ISS) circles the Earth every 90 minutes, it sometimes sees auroras below that are acti...
 
 </div>
 <!-- NASA-APOD:END -->
