@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Auroras from Space
+#### 🌌 Double Lobed Asteroid Torifune
 
-<img src='https://apod.nasa.gov/apod/image/2607/Auroras_Esa.mp4' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2607/Torifune_JAXA_960.jpg' width='400' />
 
-> What do auroras look like from above? Behold!  From the ground, auroras dance high above clouds, frequently causing spectacular displays.  From space, they look a bit different. As the International Space Station (ISS) circles the Earth every 90 minutes, it sometimes sees auroras below that are acti...
+> Why is this asteroid a double?  Earlier this month the Japanese robotic spacecraft Hayabusa2 shot past asteroid 98943 Torifune and captured pictures. Although previous observations from distant Earth indicated that Torifune was oblong, Hayabusa2 found that Torifune actually has two joined lobes.  Wi...
 
 </div>
 <!-- NASA-APOD:END -->
