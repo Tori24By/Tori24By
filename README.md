@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Double Lobed Asteroid Torifune
+#### 🌌 Red Sprites in the Tatacoa Desert
 
-<img src='https://apod.nasa.gov/apod/image/2607/Torifune_JAXA_960.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2607/red_sprite_700.jpg' width='400' />
 
-> Why is this asteroid a double?  Earlier this month the Japanese robotic spacecraft Hayabusa2 shot past asteroid 98943 Torifune and captured pictures. Although previous observations from distant Earth indicated that Torifune was oblong, Hayabusa2 found that Torifune actually has two joined lobes.  Wi...
+> Is there an angry Sith using force lightning in the Tatacoa Desert? This is not science fiction, but a red sprite with multiple streamers! Ordinary lightning occurs when thundercloud particles collide, lose their electrons, and build up negative charge at the cloud bottom. The cloud’s negative charg...
 
 </div>
 <!-- NASA-APOD:END -->
