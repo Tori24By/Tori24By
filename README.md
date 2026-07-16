@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Red Sprites in the Tatacoa Desert
+#### 🌌 NGC 300: A Cosmic Gemstone with Stars and Gas Clouds
 
-<img src='https://apod.nasa.gov/apod/image/2607/red_sprite_700.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2607/ngc300_1024.jpg' width='400' />
 
-> Is there an angry Sith using force lightning in the Tatacoa Desert? This is not science fiction, but a red sprite with multiple streamers! Ordinary lightning occurs when thundercloud particles collide, lose their electrons, and build up negative charge at the cloud bottom. The cloud’s negative charg...
+> This sparkling, colorful gemstone is a spiral galaxy, NGC 300.   It is one of the closest spiral galaxies to Earth, only about 6 million light-years away.     But does it really look like this?   Here is a more standard portrait of it.   This unusual image combines the light from the stars and dust ...
 
 </div>
 <!-- NASA-APOD:END -->
