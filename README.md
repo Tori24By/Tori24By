@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 NGC 300: A Cosmic Gemstone with Stars and Gas Clouds
+#### 🌌 The Dust Trail of Comet Tempel 2
 
-<img src='https://apod.nasa.gov/apod/image/2607/ngc300_1024.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2607/10P_Tempel2_20260711_DEBartlett1024.jpg' width='400' />
 
-> This sparkling, colorful gemstone is a spiral galaxy, NGC 300.   It is one of the closest spiral galaxies to Earth, only about 6 million light-years away.     But does it really look like this?   Here is a more standard portrait of it.   This unusual image combines the light from the stars and dust ...
+> Comet 10P/Tempel 2 orbits the Sun once every 5.4 years. Currently visible in binoculars or small telescopes toward the constellation Capricornus, the periodic comet is captured in this sharp telescopic image from July 11 sporting a bright nuclear region and pretty greenish coma. Remarkably, a thin d...
 
 </div>
 <!-- NASA-APOD:END -->
