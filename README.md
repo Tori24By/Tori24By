@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 The Dust Trail of Comet Tempel 2
+#### 🌌 Shadow and Rainbow
 
-<img src='https://apod.nasa.gov/apod/image/2607/10P_Tempel2_20260711_DEBartlett1024.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2607/ShadowandRainbow_Loschiavo1024.jpg' width='400' />
 
-> Comet 10P/Tempel 2 orbits the Sun once every 5.4 years. Currently visible in binoculars or small telescopes toward the constellation Capricornus, the periodic comet is captured in this sharp telescopic image from July 11 sporting a bright nuclear region and pretty greenish coma. Remarkably, a thin d...
+> At sunset, an alignment of rainbow and mountain shadow was captured in this remarkable snapshot. The stunning view was recorded from a fire lookout on Smith Peak in the Plumas National Forest near Portola, California on July 13.  Still, near sunset it's no accident that the majestic mountain shadow ...
 
 </div>
 <!-- NASA-APOD:END -->
