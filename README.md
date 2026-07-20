@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Flying Saucer Crash Lands in Utah Desert
+#### 🌌 NGC 3576: The Statue of Liberty Nebula
 
-<img src='https://apod.nasa.gov/apod/image/2607/Genesisimpact_nasa_960.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2607/LibertyNeb_Carpenter_960.jpg' width='400' />
 
-> A flying saucer from outer space crash-landed in the Utah desert after being tracked by radar and chased by helicopters.  The year was 2004, and no space aliens were involved.  The saucer, pictured here, was the Genesis sample return capsule, part of a human-made robot Genesis spaceship launched in ...
+> What's happening in the Statue of Liberty nebula?  Bright stars and interesting molecules are forming and being liberated. The complex nebula resides in the star forming region called RCW 57, and besides the iconic monument, to some looks like a flying superhero or a weeping angel.  This re-assigned...
 
 </div>
 <!-- NASA-APOD:END -->
