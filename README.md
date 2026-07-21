@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 NGC 3576: The Statue of Liberty Nebula
+#### 🌌 Turtle Rock on Mars
 
-<img src='https://apod.nasa.gov/apod/image/2607/LibertyNeb_Carpenter_960.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2607/TurtleRock_Curiosity_1080.jpg' width='400' />
 
-> What's happening in the Statue of Liberty nebula?  Bright stars and interesting molecules are forming and being liberated. The complex nebula resides in the star forming region called RCW 57, and besides the iconic monument, to some looks like a flying superhero or a weeping angel.  This re-assigned...
+> Is this a fossilized turtle on Mars?  No.  Although resembling a large Earth tortoise, this is a layered rock outcrop on Mars that is estimated to span about 15 meters, making it much larger than turtles on Earth. NASA’s robotic Curiosity rover came across this unusual mound, dubbed Miraflores, last...
 
 </div>
 <!-- NASA-APOD:END -->
