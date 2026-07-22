@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Turtle Rock on Mars
+#### 🌌 The Corona Australis Molecular Cloud and the Chandelier Cluster
 
-<img src='https://apod.nasa.gov/apod/image/2607/TurtleRock_Curiosity_1080.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2607/corona_australis_1024.jpg' width='400' />
 
-> Is this a fossilized turtle on Mars?  No.  Although resembling a large Earth tortoise, this is a layered rock outcrop on Mars that is estimated to span about 15 meters, making it much larger than turtles on Earth. NASA’s robotic Curiosity rover came across this unusual mound, dubbed Miraflores, last...
+> The Southern Crown (Corona Australis) dazzles with young and ancient celestial jewels. The Corona Australis Cloud is a collage of reflection and emission nebulae on the left of today’s image. At 430 light years away, this cloud is one of the closest star-forming regions to Earth. It contains gas coo...
 
 </div>
 <!-- NASA-APOD:END -->
