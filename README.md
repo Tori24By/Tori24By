@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 The Corona Australis Molecular Cloud and the Chandelier Cluster
+#### 🌌 The Large Magellanic Cloud
 
-<img src='https://apod.nasa.gov/apod/image/2607/corona_australis_1024.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2607/LMC_1024.jpg' width='400' />
 
-> The Southern Crown (Corona Australis) dazzles with young and ancient celestial jewels. The Corona Australis Cloud is a collage of reflection and emission nebulae on the left of today’s image. At 430 light years away, this cloud is one of the closest star-forming regions to Earth. It contains gas coo...
+> Have you ever seen another galaxy with your own eyes?   The featured image shows the Large Magellanic Cloud (LMC), one of the closest neighbors of our Milky Way.     If you are anywhere south of latitude 20° N (but the further south, the better), you can see it with the unaided eye if you go to a da...
 
 </div>
 <!-- NASA-APOD:END -->
