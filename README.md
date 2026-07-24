@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 The Large Magellanic Cloud
+#### 🌌 RCW 86: Historical Supernova Remnant
 
-<img src='https://apod.nasa.gov/apod/image/2607/LMC_1024.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2607/RCW86Final1024.jpg' width='400' />
 
-> Have you ever seen another galaxy with your own eyes?   The featured image shows the Large Magellanic Cloud (LMC), one of the closest neighbors of our Milky Way.     If you are anywhere south of latitude 20° N (but the further south, the better), you can see it with the unaided eye if you go to a da...
+> In 185 AD, Chinese astronomers recorded the appearance of a new star in the Nanmen asterism. That part of the sky is identified with part of the southern constellation Centaurus on modern star charts. In fact, the new star was reported to be visible to the naked-eye for months before it faded from v...
 
 </div>
 <!-- NASA-APOD:END -->
