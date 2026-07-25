@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 RCW 86: Historical Supernova Remnant
+#### 🌌 Tranquility and Serenity
 
-<img src='https://apod.nasa.gov/apod/image/2607/RCW86Final1024.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2607/TranquilitySerenity1024c.jpg' width='400' />
 
-> In 185 AD, Chinese astronomers recorded the appearance of a new star in the Nanmen asterism. That part of the sky is identified with part of the southern constellation Centaurus on modern star charts. In fact, the new star was reported to be visible to the naked-eye for months before it faded from v...
+> The Seas of Tranquility and Serenity are calm today. They're calm most every day though, since they are actually lunar maria, ancient lava flows filling in large impact basins on the Moon. Also known by Latin names Mare Tranquillitatis (right) and Mare Serenitatis, the smooth dark lunar "seas" are i...
 
 </div>
 <!-- NASA-APOD:END -->
