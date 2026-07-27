@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Simulation TNG50: A Galaxy Cluster Forms
+#### 🌌 NGC 7635: The Bubble Nebula
 
-<img src='https://apod.nasa.gov/apod/image/2607/ClusterFormation_TNG50.mp4' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2607/Bubble_Piechnik_960.jpg' width='400' />
 
-> How do clusters of galaxies form?  Since our universe moves too slowly to watch, faster-moving computer simulations are created to help find out.  One famous effort is TNG50 from IllustrisTNG, an upgrade of the famous Illustris Simulation. The first part of the featured video tracks cosmic gas (most...
+> What created this huge space bubble? Blown by the wind from a star, this tantalizing, head-like apparition is cataloged as NGC 7635, but known simply as the Bubble Nebula. Taken from Krakow, Poland, the featured view utilizes a long exposure to reveal the intricate details of this cosmic bubble and ...
 
 </div>
 <!-- NASA-APOD:END -->
