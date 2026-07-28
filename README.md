@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 NGC 7635: The Bubble Nebula
+#### 🌌 Barnards Loop over Twin Volcanoes
 
-<img src='https://apod.nasa.gov/apod/image/2607/Bubble_Piechnik_960.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2607/LoopVolcanos_Laserna_960.jpg' width='400' />
 
-> What created this huge space bubble? Blown by the wind from a star, this tantalizing, head-like apparition is cataloged as NGC 7635, but known simply as the Bubble Nebula. Taken from Krakow, Poland, the featured view utilizes a long exposure to reveal the intricate details of this cosmic bubble and ...
+> What's connecting these two volcanoes? In ancient folklore, the two volcanoes, Parinacota (left) and Pomerape (right), are connected by representing a mythical prince and princess who engaged in a forbidden romance.  Beneath the ground, the two peaks are not known to be connected by a common pool of...
 
 </div>
 <!-- NASA-APOD:END -->
