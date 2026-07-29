@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Barnards Loop over Twin Volcanoes
+#### 🌌 Psyche Receives Gravity Assist from Mars
 
-<img src='https://apod.nasa.gov/apod/image/2607/LoopVolcanos_Laserna_960.jpg' width='400' />
+<img src='https://www.youtube.com/embed/6_cH5-daLjg?si=i9geSInQj3VMZwx3' width='400' />
 
-> What's connecting these two volcanoes? In ancient folklore, the two volcanoes, Parinacota (left) and Pomerape (right), are connected by representing a mythical prince and princess who engaged in a forbidden romance.  Beneath the ground, the two peaks are not known to be connected by a common pool of...
+> Solar System bodies make deep space exploration more fuel efficient! Today’s video shows the Psyche spacecraft gaining speed and changing its trajectory with minimal fuel spent due to a gravity assist from Mars in May 2026. Mars has an average orbital speed of almost 87,000 km/h (54,000 mph) around ...
 
 </div>
 <!-- NASA-APOD:END -->
