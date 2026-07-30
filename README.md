@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Psyche Receives Gravity Assist from Mars
+#### 🌌 Red Sun through Wildfire Smoke
 
-<img src='https://www.youtube.com/embed/6_cH5-daLjg?si=i9geSInQj3VMZwx3' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2607/red_sun_1024.jpg' width='400' />
 
-> Solar System bodies make deep space exploration more fuel efficient! Today’s video shows the Psyche spacecraft gaining speed and changing its trajectory with minimal fuel spent due to a gravity assist from Mars in May 2026. Mars has an average orbital speed of almost 87,000 km/h (54,000 mph) around ...
+> This could be the view from an exoplanet orbiting around a red dwarf star, but it is our own Sun.   This image was taken on July 22, 2026, in the Okanagan region in the Canadian province of British Columbia.   Wildfire smoke from the Pacific Northwest acted as a solar filter, allowing the photograph...
 
 </div>
 <!-- NASA-APOD:END -->
