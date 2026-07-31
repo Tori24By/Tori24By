@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Red Sun through Wildfire Smoke
+#### 🌌 NGC 4372 and the Dark Doodad
 
-<img src='https://apod.nasa.gov/apod/image/2607/red_sun_1024.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2607/DARK-DOODAD_1024.jpg' width='400' />
 
-> This could be the view from an exoplanet orbiting around a red dwarf star, but it is our own Sun.   This image was taken on July 22, 2026, in the Okanagan region in the Canadian province of British Columbia.   Wildfire smoke from the Pacific Northwest acted as a solar filter, allowing the photograph...
+> The Dark Doodad Nebula drifts through southern skies, a tantalizing target for binoculars toward the small constellation Musca, The Fly. A dusty interstellar cloud, it's seen against rich starfields just south of the Coalsack Nebula and the Southern Cross. Stretching for about 3 degrees across this ...
 
 </div>
 <!-- NASA-APOD:END -->
