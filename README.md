@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 NGC 4372 and the Dark Doodad
+#### 🌌 Buck Moon and Belt of Venus
 
-<img src='https://apod.nasa.gov/apod/image/2607/DARK-DOODAD_1024.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2608/FullMoon28-7-2026BrankoNadj1024.jpg' width='400' />
 
-> The Dark Doodad Nebula drifts through southern skies, a tantalizing target for binoculars toward the small constellation Musca, The Fly. A dusty interstellar cloud, it's seen against rich starfields just south of the Coalsack Nebula and the Southern Cross. Stretching for about 3 degrees across this ...
+> The Buck Moon is a traditional name for the full moon of July. In this colorful Adriatic sea and skyscape captured on July 28 from Krk Island along the coast of Croatia, a full Buck Moon is just rising over distant mountains. Since a full moon rises as the Sun sets, Earth's shadow also rises in the ...
 
 </div>
 <!-- NASA-APOD:END -->
