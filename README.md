@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Buck Moon and Belt of Venus
+#### 🌌 A Fire Rainbow over West Virginia
 
-<img src='https://apod.nasa.gov/apod/image/2608/FullMoon28-7-2026BrankoNadj1024.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2608/FireRainbow_Harbig_960.jpg' width='400' />
 
-> The Buck Moon is a traditional name for the full moon of July. In this colorful Adriatic sea and skyscape captured on July 28 from Krk Island along the coast of Croatia, a full Buck Moon is just rising over distant mountains. Since a full moon rises as the Sun sets, Earth's shadow also rises in the ...
+> What's happening to this cloud? Ice crystals in a distant cirrus cloud are acting like little floating prisms.  Known informally as a fire rainbow for its flame-like appearance, a circumhorizon arc appears parallel to the horizon. For a circumhorizontal arc to be visible, the Sun must be at least 58...
 
 </div>
 <!-- NASA-APOD:END -->
