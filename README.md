@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 A Fire Rainbow over West Virginia
+#### 🌌 Vaporizing Meteor Photobombs the Lacerta Nebula
 
-<img src='https://apod.nasa.gov/apod/image/2608/FireRainbow_Harbig_960.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2608/MeteorGecko_Burnett_1080.jpg' width='400' />
 
-> What's happening to this cloud? Ice crystals in a distant cirrus cloud are acting like little floating prisms.  Known informally as a fire rainbow for its flame-like appearance, a circumhorizon arc appears parallel to the horizon. For a circumhorizontal arc to be visible, the Sun must be at least 58...
+> What's happening to this meteor? This bright meteor streak appeared and disappeared quickly during a long exposure of the Great Lacerta Nebula, seen faintly in red toward the center of the image. The meteoroid, likely a small pebble, creates its glow partly by heating and exciting surrounding air in...
 
 </div>
 <!-- NASA-APOD:END -->
