@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Vaporizing Meteor Photobombs the Lacerta Nebula
+#### 🌌 Curious Cometary Knots in the Helix Nebula
 
-<img src='https://apod.nasa.gov/apod/image/2608/MeteorGecko_Burnett_1080.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2608/HelixKnots_JWST_960.jpg' width='400' />
 
-> What's happening to this meteor? This bright meteor streak appeared and disappeared quickly during a long exposure of the Great Lacerta Nebula, seen faintly in red toward the center of the image. The meteoroid, likely a small pebble, creates its glow partly by heating and exciting surrounding air in...
+> What causes unusual knots of gas and dust in planetary nebulas?  Seen also in the Ring Nebula, the Dumbbell Nebula and NGC 2392, the knots' existence was not initially predicted, and their origins are still not well understood.  Pictured here is a fascinating image of part of the Helix Nebula by the...
 
 </div>
 <!-- NASA-APOD:END -->
