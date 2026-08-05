@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Curious Cometary Knots in the Helix Nebula
+#### 🌌 Spokes on Saturn's B Ring
 
-<img src='https://apod.nasa.gov/apod/image/2608/HelixKnots_JWST_960.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2608/saturn_spokes.gif' width='400' />
 
-> What causes unusual knots of gas and dust in planetary nebulas?  Seen also in the Ring Nebula, the Dumbbell Nebula and NGC 2392, the knots' existence was not initially predicted, and their origins are still not well understood.  Pictured here is a fascinating image of part of the Helix Nebula by the...
+> Don’t get spooked by Saturn’s ghostly spokes! Today we feature a nearly two-hour timelapse of Saturn and its rings looping forwards and backwards. A day on Saturn is only 10 hours long, so two hours of observation covers quite a bit of its rotation. If you look closely, a ghoulish shadow appears and...
 
 </div>
 <!-- NASA-APOD:END -->
