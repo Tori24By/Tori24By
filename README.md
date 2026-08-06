@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Spokes on Saturn's B Ring
+#### 🌌 New Sharpest Image of the Sun Uncovers Instability
 
-<img src='https://apod.nasa.gov/apod/image/2608/saturn_spokes.gif' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2608/SunFlowers_NSO_960.jpg' width='400' />
 
-> Don’t get spooked by Saturn’s ghostly spokes! Today we feature a nearly two-hour timelapse of Saturn and its rings looping forwards and backwards. A day on Saturn is only 10 hours long, so two hours of observation covers quite a bit of its rotation. If you look closely, a ghoulish shadow appears and...
+> What does the new sharpest image of our Sun show? Instability. To be clear, a certain kind of interactive process called the Kelvin-Helmholtz instability (KHI). This instability can create waves and swirls when two streams flow past each other -- in this case variable streams of solar magnetic plasm...
 
 </div>
 <!-- NASA-APOD:END -->
