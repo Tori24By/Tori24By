@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 New Sharpest Image of the Sun Uncovers Instability
+#### 🌌 A Messier Moment for Tempel 2
 
-<img src='https://apod.nasa.gov/apod/image/2608/SunFlowers_NSO_960.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2608/10P_Tempel2_Globular_M30_20260729_DEBartlett600c.jpg' width='400' />
 
-> What does the new sharpest image of our Sun show? Instability. To be clear, a certain kind of interactive process called the Kelvin-Helmholtz instability (KHI). This instability can create waves and swirls when two streams flow past each other -- in this case variable streams of solar magnetic plasm...
+> Which of these is not a comet? You guessed it - the one on the right is a globular star cluster. The diffuse greenish coma of periodic comet 10P/Tempel 2 is at left in the frame. In fact the globular star cluster is Messier 30, also known as M30, or the 30th entry in astronomer Charles Messier's cat...
 
 </div>
 <!-- NASA-APOD:END -->
