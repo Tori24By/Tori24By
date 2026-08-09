@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 A Messier Moment for Tempel 2
+#### 🌌 Contemplating the Sun
 
-<img src='https://apod.nasa.gov/apod/image/2608/10P_Tempel2_Globular_M30_20260729_DEBartlett600c.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2608/sunsilhouettes_gilbert_960.jpg' width='400' />
 
-> Which of these is not a comet? You guessed it - the one on the right is a globular star cluster. The diffuse greenish coma of periodic comet 10P/Tempel 2 is at left in the frame. In fact the globular star cluster is Messier 30, also known as M30, or the 30th entry in astronomer Charles Messier's cat...
+> Have you contemplated your home star recently?  Featured here, a Sun partially eclipsed on the top left by the Moon is also seen eclipsed by earthlings contemplating the eclipse below.  This spectacular menagerie of silhouettes was taken in 2012 from the Glen Canyon National Recreation Area near Pag...
 
 </div>
 <!-- NASA-APOD:END -->
