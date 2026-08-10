@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Contemplating the Sun
+#### 🌌 Three Galaxy Pairs
 
-<img src='https://apod.nasa.gov/apod/image/2608/sunsilhouettes_gilbert_960.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2608/Three3GalaxyPairs_Sampaio_960.jpg' width='400' />
 
-> Have you contemplated your home star recently?  Featured here, a Sun partially eclipsed on the top left by the Moon is also seen eclipsed by earthlings contemplating the eclipse below.  This spectacular menagerie of silhouettes was taken in 2012 from the Glen Canyon National Recreation Area near Pag...
+> ch of these pairs of galaxies is different.  The two galaxies at the top are likely not interacting, at least presently.  However, the top galaxy with the blue stripe, NGC 4650A, is a polar ring galaxy and may be the result of a past galaxy collision. The two galaxies in the middle of the featured i...
 
 </div>
 <!-- NASA-APOD:END -->
