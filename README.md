@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Three Galaxy Pairs
+#### 🌌 Six Moons of Saturn
 
-<img src='https://apod.nasa.gov/apod/image/2608/Three3GalaxyPairs_Sampaio_960.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2608/2026-08-05-0609_7-SaturnSystem_c.jpg' width='400' />
 
-> ch of these pairs of galaxies is different.  The two galaxies at the top are likely not interacting, at least presently.  However, the top galaxy with the blue stripe, NGC 4650A, is a polar ring galaxy and may be the result of a past galaxy collision. The two galaxies in the middle of the featured i...
+> How many moons does Saturn have? While the total will likely continue to grow, as of June 2026 the ringed gas giant had 293 confirmed moons. That's easily more than any other planet of the Solar System, including ruling gas giant Jupiter with a mere 115 confirmed moons. Most of Saturn's known moons ...
 
 </div>
 <!-- NASA-APOD:END -->
