@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Total Solar Eclipse Over Spain
+#### 🌌 Total Solar Eclipse from Greenland
 
-<img src='https://apod.nasa.gov/apod/image/2608/total_solar_eclipse_900.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2608/TSE2026DR_Madhaven1024.jpeg' width='400' />
 
-> On August 12th, 2026, the Moon totally eclipsed the Sun and cast its shadow across Siberia, Greenland, Iceland, Spain, and Portugal. Today’s image features two total solar eclipses viewed from Zaragoza, Spain, one over the Cathedral-Basilica of Our Lady of the Pillar and the other reflecting in the ...
+> On August 12, the Moon's shadow reached out to touch our fair planet. Beginning in the Arctic Ocean, it swept along a narrow track that led the dark lunar umbra across parts of Greenland, Iceland, the Atlantic, Portugal, and northern Spain. And for a moment, denizens of Earth who found themselves wi...
 
 </div>
 <!-- NASA-APOD:END -->
