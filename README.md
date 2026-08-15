@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Total Solar Eclipse from Greenland
+#### 🌌 Bright Perseids from Sweden
 
-<img src='https://apod.nasa.gov/apod/image/2608/TSE2026DR_Madhaven1024.jpeg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2608/PerseidsAPOD_P-MHeden.jpg' width='400' />
 
-> On August 12, the Moon's shadow reached out to touch our fair planet. Beginning in the Arctic Ocean, it swept along a narrow track that led the dark lunar umbra across parts of Greenland, Iceland, the Atlantic, Portugal, and northern Spain. And for a moment, denizens of Earth who found themselves wi...
+> Known for its bright and fast meteors, the annual Perseid Meteor Shower comes to planet Earth's skies from a radiant in the heroic constellation Perseus. The popular northern summer celestial spectacle is created as grains of dust cast off along the orbit of periodic comet 109P/Swift-Tuttle vaporize...
 
 </div>
 <!-- NASA-APOD:END -->
