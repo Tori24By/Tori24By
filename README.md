@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Bright Perseids from Sweden
+#### 🌌 Milky Way over Yellowstone
 
-<img src='https://apod.nasa.gov/apod/image/2608/PerseidsAPOD_P-MHeden.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2608/mwyellowstone_lane_960.jpg' width='400' />
 
-> Known for its bright and fast meteors, the annual Perseid Meteor Shower comes to planet Earth's skies from a radiant in the heroic constellation Perseus. The popular northern summer celestial spectacle is created as grains of dust cast off along the orbit of periodic comet 109P/Swift-Tuttle vaporize...
+> The Milky Way was not created by an evaporating lake.  The colorful pool of water, about 10 meters across, is known as Silex Spring and is located in Yellowstone National Park in Wyoming, USA.  Illuminated artificially, the colors are caused by layers of bacteria that grow in the hot spring.  Steam ...
 
 </div>
 <!-- NASA-APOD:END -->
