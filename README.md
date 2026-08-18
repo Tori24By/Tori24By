@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Milky Way over Yellowstone
+#### 🌌 Perseids from Perseus
 
-<img src='https://apod.nasa.gov/apod/image/2608/mwyellowstone_lane_960.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2608/Perseids_karuk_960.jpg' width='400' />
 
-> The Milky Way was not created by an evaporating lake.  The colorful pool of water, about 10 meters across, is known as Silex Spring and is located in Yellowstone National Park in Wyoming, USA.  Illuminated artificially, the colors are caused by layers of bacteria that grow in the hot spring.  Steam ...
+> This was a good year for the Perseids meteor shower.  A key reason was the Moon was absent from lighting up Earth's night sky so that more meteors were visible than usual.  Where was the Moon?  It was busy visiting the Sun.  Near the Perseids peak, the Moon moved directly in front of the Sun and cre...
 
 </div>
 <!-- NASA-APOD:END -->
