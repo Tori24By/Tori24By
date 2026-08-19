@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Perseids from Perseus
+#### 🌌 The Case of the Mysterious Maybe Meteor
 
-<img src='https://apod.nasa.gov/apod/image/2608/Perseids_karuk_960.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2608/perseids_eclipse_mystery.mp4' width='400' />
 
-> This was a good year for the Perseids meteor shower.  A key reason was the Moon was absent from lighting up Earth's night sky so that more meteors were visible than usual.  Where was the Moon?  It was busy visiting the Sun.  Near the Perseids peak, the Moon moved directly in front of the Sun and cre...
+> Whatdunit? What disappeared while crossing a partially eclipsed Sun? Let’s present the evidence. The 24 frames-per-second video was taken in Spain (40°34'30.3"N 1°12'28.8"W) at 20:28 local time on August 12, 2026. The Perseids meteor shower was at its peak during this time. Is this a meteor? Meteor ...
 
 </div>
 <!-- NASA-APOD:END -->
