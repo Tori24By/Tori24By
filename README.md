@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 The Case of the Mysterious Maybe Meteor
+#### 🌌 The Elephant's Trunk in Cepheus
 
-<img src='https://apod.nasa.gov/apod/image/2608/perseids_eclipse_mystery.mp4' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2608/IMG_5201_sgarbossa1024.jpeg' width='400' />
 
-> Whatdunit? What disappeared while crossing a partially eclipsed Sun? Let’s present the evidence. The 24 frames-per-second video was taken in Spain (40°34'30.3"N 1°12'28.8"W) at 20:28 local time on August 12, 2026. The Perseids meteor shower was at its peak during this time. Is this a meteor? Meteor ...
+> Like an illustration in a galactic Just So Story, the Elephant's Trunk Nebula winds through the emission region and young star cluster complex IC 1396, in the high and far off constellation of Cepheus. Also known as vdB 142, this cosmic elephant's trunk is over 20 light-years long. The detailed tele...
 
 </div>
 <!-- NASA-APOD:END -->
