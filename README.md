@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 The Elephant's Trunk in Cepheus
+#### 🌌 Time-Lapse of the Star S301 Orbiting the Black Hole in the Center of the Galaxy
 
-<img src='https://apod.nasa.gov/apod/image/2608/IMG_5201_sgarbossa1024.jpeg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2608/eso2612b.mp4' width='400' />
 
-> Like an illustration in a galactic Just So Story, the Elephant's Trunk Nebula winds through the emission region and young star cluster complex IC 1396, in the high and far off constellation of Cepheus. Also known as vdB 142, this cosmic elephant's trunk is over 20 light-years long. The detailed tele...
+> What does it feel like to zoom around a spinning supermassive black hole?   The featured video is an animation showing a time-lapse of 4 years of observations of the star S301 orbiting Sagittarius A*, the 4-million-solar-mass black hole in the center of our Galaxy.   S301 was discovered in 2023 with...
 
 </div>
 <!-- NASA-APOD:END -->
