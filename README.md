@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Cassini Approaches Saturn
+#### 🌌 Comet 220P in Outburst
 
-<img src='https://player.vimeo.com/video/11386048#t=0m58s?color=8BA0FF&portrait=0' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2608/Comet220P_SA_960.jpg' width='400' />
 
-> What would it look like to approach the grand planet Saturn? One doesn't have to just imagine -- the Cassini spacecraft did just this in 2004, recording thousands of images along the way, and hundreds of thousands more since entering orbit. Some of Cassini's early images have been digitally tweaked,...
+> Comet 220P is unexpectedly bright. Normally, periodic Comet 220P/McNaught is so dim that to see it requires a telescope. Two surprising outbursts this year, however, have made it about 20,000 times brighter than usual, so that it is now visible with binoculars and long-duration camera exposures. As ...
 
 </div>
 <!-- NASA-APOD:END -->
