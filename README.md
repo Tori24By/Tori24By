@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Earth's Shadow Visualized with Lunar Eclipses
+#### 🌌 JWST Images The Lion's Head Nebula
 
-<img src='https://apod.nasa.gov/apod/image/2608/EarthShadow_Martin_960.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2608/lions_head_nebula.jpg' width='400' />
 
-> What’s creating this giant hole in space? This is not a black hole — it’s a shadow.  It’s Earth’s shadow.  Since at least the time of Aristotle, people have noted that Earth's dark shadow on the Moon during a partial lunar eclipse is circular -- although never a whole circle.  Using modern digital t...
+> Are we looking at the future of our Sun? The James Webb Space Telescope captured today’s composite image of the Lion’s Head Nebula (NGC 2392) with its NIRCam and MIRI instruments. The Lion’s Head Nebula is the remnant of a Sun-like star. This star was unable to sustain the nuclear fusion in its core...
 
 </div>
 <!-- NASA-APOD:END -->
