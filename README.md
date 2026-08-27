@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 JWST Images The Lion's Head Nebula
+#### 🌌 Colorful Aurora over Icelandic Waterfall
 
-<img src='https://apod.nasa.gov/apod/image/2608/lions_head_nebula.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2608/Aurora_over_Fall_800.jpg' width='400' />
 
-> Are we looking at the future of our Sun? The James Webb Space Telescope captured today’s composite image of the Lion’s Head Nebula (NGC 2392) with its NIRCam and MIRI instruments. The Lion’s Head Nebula is the remnant of a Sun-like star. This star was unable to sustain the nuclear fusion in its core...
+> What a sight to behold, when a night sky became filled with colors that appeared to rain over the Skógafoss waterfall in Iceland.     This image was taken in a single 5 second exposure by the photographer in April 2025.   Seeing an aurora is on many people's bucket lists.   But it is not easy.   It ...
 
 </div>
 <!-- NASA-APOD:END -->
