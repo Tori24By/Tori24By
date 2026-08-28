@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Colorful Aurora over Icelandic Waterfall
+#### 🌌 The Sky Turns Above Paranal
 
-<img src='https://apod.nasa.gov/apod/image/2608/Aurora_over_Fall_800.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2608/TheSkyTurnsAboveParanal_1024.jpg' width='400' />
 
-> What a sight to behold, when a night sky became filled with colors that appeared to rain over the Skógafoss waterfall in Iceland.     This image was taken in a single 5 second exposure by the photographer in April 2025.   Seeing an aurora is on many people's bucket lists.   But it is not easy.   It ...
+> At the latitude of ESO's Paranal Observatory in Chile, about 25 degrees south, Earth's rotation moves the planet's surface eastward at over 1,500 kilometers per hour. And while that's faster than the speed of sound at sea level, the motion is imperceptible. Still, that motion can be revealed in the ...
 
 </div>
 <!-- NASA-APOD:END -->
