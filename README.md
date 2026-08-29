@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 The Sky Turns Above Paranal
+#### 🌌 Eclipse Pair
 
-<img src='https://apod.nasa.gov/apod/image/2608/TheSkyTurnsAboveParanal_1024.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2608/2026-08_12and28-EclipsePair1024.jpg' width='400' />
 
-> At the latitude of ESO's Paranal Observatory in Chile, about 25 degrees south, Earth's rotation moves the planet's surface eastward at over 1,500 kilometers per hour. And while that's faster than the speed of sound at sea level, the motion is imperceptible. Still, that motion can be revealed in the ...
+> clipses tend to come in pairs. Twice a year, during an eclipse season that lasts about 34 days, Sun, Moon, and Earth can nearly align. Then the new and full phases of the Moon, separated by just over 14 days, create a solar and a lunar eclipse. But only rarely is the alignment at both new moon and f...
 
 </div>
 <!-- NASA-APOD:END -->
