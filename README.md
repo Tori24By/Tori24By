@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Eclipse Pair
+#### 🌌 M74: A Grand Design Spiral
 
-<img src='https://apod.nasa.gov/apod/image/2608/2026-08_12and28-EclipsePair1024.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2608/m74_hst_960.jpg' width='400' />
 
-> clipses tend to come in pairs. Twice a year, during an eclipse season that lasts about 34 days, Sun, Moon, and Earth can nearly align. Then the new and full phases of the Moon, separated by just over 14 days, create a solar and a lunar eclipse. But only rarely is the alignment at both new moon and f...
+> If not the most grand, then this spiral galaxy is at least one of the most photogenic.  An island universe of about 100 billion stars, 32 million light-years away toward the constellation Pisces, M74 presents a gorgeous face-on view.  Classified as an Sc galaxy, the grand design of M74's graceful sp...
 
 </div>
 <!-- NASA-APOD:END -->
