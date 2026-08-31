@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 M74: A Grand Design Spiral
+#### 🌌 Launch of the Roman Space Telescope
 
-<img src='https://apod.nasa.gov/apod/image/2608/m74_hst_960.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2608/RomanLaunch_NASA.mp4' width='400' />
 
-> If not the most grand, then this spiral galaxy is at least one of the most photogenic.  An island universe of about 100 billion stars, 32 million light-years away toward the constellation Pisces, M74 presents a gorgeous face-on view.  Classified as an Sc galaxy, the grand design of M74's graceful sp...
+> A new telescope has been launched into space to study the universe. The Nancy Grace Roman Space Telescope (RST) has the same size main mirror as the Hubble Space Telescope (HST) but sees 100 times more sky during each snapshot.  This is possible because when compared to HST, RST's main mirror is mor...
 
 </div>
 <!-- NASA-APOD:END -->
