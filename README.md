@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Launch of the Roman Space Telescope
+#### 🌌 A Plane Lunar Eclipse
 
-<img src='https://apod.nasa.gov/apod/image/2608/RomanLaunch_NASA.mp4' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2608/PlaneEclipse_Ferreira_1059.jpg' width='400' />
 
-> A new telescope has been launched into space to study the universe. The Nancy Grace Roman Space Telescope (RST) has the same size main mirror as the Hubble Space Telescope (HST) but sees 100 times more sky during each snapshot.  This is possible because when compared to HST, RST's main mirror is mor...
+> Did you need to be on the right side of this airplane to see this eclipse? No.  Lunar eclipses are routinely seen from the half of the Earth facing the Moon when the eclipse occurs, making them some of the most commonly witnessed astronomical events. You don't even need any special equipment to see ...
 
 </div>
 <!-- NASA-APOD:END -->
