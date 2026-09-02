@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 A Plane Lunar Eclipse
+#### 🌌 Solar Eclipses and Culture
 
-<img src='https://apod.nasa.gov/apod/image/2608/PlaneEclipse_Ferreira_1059.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2609/colors_of_eclipse_1024.jpg' width='400' />
 
-> Did you need to be on the right side of this airplane to see this eclipse? No.  Lunar eclipses are routinely seen from the half of the Earth facing the Moon when the eclipse occurs, making them some of the most commonly witnessed astronomical events. You don't even need any special equipment to see ...
+> Pretend you have never heard of a solar eclipse. The Sun’s behavior has been predictable your whole life. One day, you witness the sky transform as it does in today’s spliced image spanning two hours of the August 12, 2026 solar eclipse. The Sun disappears, leaving behind a bright, empty ring. What ...
 
 </div>
 <!-- NASA-APOD:END -->
