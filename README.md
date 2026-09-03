@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Solar Eclipses and Culture
+#### 🌌 The Eclipse and the Stork
 
-<img src='https://apod.nasa.gov/apod/image/2609/colors_of_eclipse_1024.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2609/eclipse_stork_1080.jpg' width='400' />
 
-> Pretend you have never heard of a solar eclipse. The Sun’s behavior has been predictable your whole life. One day, you witness the sky transform as it does in today’s spliced image spanning two hours of the August 12, 2026 solar eclipse. The Sun disappears, leaving behind a bright, empty ring. What ...
+> How do animals react to a total solar eclipse?   The featured image shows a stork roosting on her nest in Poland at a partial phase of the recent total solar eclipse.   If you are lucky enough to experience a total eclipse somewhere quiet and close to nature, you may be able to notice unusual daytim...
 
 </div>
 <!-- NASA-APOD:END -->
