@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 The Eclipse and the Stork
+#### 🌌 Nā ʻUhane Māhoe Huki Pū i ke Ola
 
-<img src='https://apod.nasa.gov/apod/image/2609/eclipse_stork_1080.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2609/noirlab2621a_1024.jpg' width='400' />
 
-> How do animals react to a total solar eclipse?   The featured image shows a stork roosting on her nest in Poland at a partial phase of the recent total solar eclipse.   If you are lucky enough to experience a total eclipse somewhere quiet and close to nature, you may be able to notice unusual daytim...
+> Nā ʻUhane Māhoe Huki Pū i ke Ola, is the Hawaiian name given to this image of a pair of spiral galaxies locked in a mutual gravitational embrace. Some 200 million light-years distant toward the high flying constellation Pegasus their spectacular, galactic scale merger is captured in sharp detail in ...
 
 </div>
 <!-- NASA-APOD:END -->
