@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Nā ʻUhane Māhoe Huki Pū i ke Ola
+#### 🌌 Chasing the Moon's Shadow
 
-<img src='https://apod.nasa.gov/apod/image/2609/noirlab2621a_1024.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2609/2026Eclipse_WB57GoPro_Totality_H264_1024.jpg' width='400' />
 
-> Nā ʻUhane Māhoe Huki Pū i ke Ola, is the Hawaiian name given to this image of a pair of spiral galaxies locked in a mutual gravitational embrace. Some 200 million light-years distant toward the high flying constellation Pegasus their spectacular, galactic scale merger is captured in sharp detail in ...
+> Chasing the shadow of a New Moon, NASA’s WB-57F high altitude research aircraft took to the skies off the coast of Iceland on August 12 to observe a total solar eclipse. At 50,000 feet the aircraft was piloted along the precisely determined path of totality to maximize its time in the Moon’s shadow....
 
 </div>
 <!-- NASA-APOD:END -->
