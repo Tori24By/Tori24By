@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Chasing the Moon's Shadow
+#### 🌌 Pluto in Enhanced Color
 
-<img src='https://apod.nasa.gov/apod/image/2609/2026Eclipse_WB57GoPro_Totality_H264_1024.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2609/PlutoEnhancedHiRes_NewHorizons_960.jpg' width='400' />
 
-> Chasing the shadow of a New Moon, NASA’s WB-57F high altitude research aircraft took to the skies off the coast of Iceland on August 12 to observe a total solar eclipse. At 50,000 feet the aircraft was piloted along the precisely determined path of totality to maximize its time in the Moon’s shadow....
+> Pluto is more colorful than we can see. Color data and high-resolution images of our Solar System's most famous dwarf planet, taken by the robotic New Horizons spacecraft during its flyby in 2015 July, have been digitally combined to give an enhanced-color view of this ancient world sporting an unex...
 
 </div>
 <!-- NASA-APOD:END -->
