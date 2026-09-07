@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Pluto in Enhanced Color
+#### 🌌 The Pelican Nebula in Gas, Dust, and Stars
 
-<img src='https://apod.nasa.gov/apod/image/2609/PlutoEnhancedHiRes_NewHorizons_960.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2609/Pelican_Killion_960.jpg' width='400' />
 
-> Pluto is more colorful than we can see. Color data and high-resolution images of our Solar System's most famous dwarf planet, taken by the robotic New Horizons spacecraft during its flyby in 2015 July, have been digitally combined to give an enhanced-color view of this ancient world sporting an unex...
+> The Pelican Nebula is slowly being transformed.  IC 5070 (an official designation) is divided from the larger North America Nebula by a molecular cloud filled with dark dust.  The deep featured picture from Utah, USA incorporates 25 hours of exposure and brings out great details of this filamentary ...
 
 </div>
 <!-- NASA-APOD:END -->
