@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Hubble: Decagon Around Saturn's South Pole
+#### 🌌 Witness XZ Andromedae Wink
 
-<img src='https://apod.nasa.gov/apod/image/2609/SaturnDecagon_Hubble_960.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2609/xz_and.mp4' width='400' />
 
-> Why are Saturn’s poles geometric? Saturn’s North Pole has been known to be surrounded by a hexagonal (6 sides) cloud since discovery in 1987 in data taken by NASA’s Voyager spacecrafts, which quickly flew past the ringed world in the early 1980s.  Now, recent observations of Saturn by the Hubble Spa...
+> Is this star winking at us? The central object in today’s animation is not one but two stars. XZ Andromedae, indicated by the bold lines, is an Algol-type eclipsing binary with a nearly edge-on orbit from Earth’s perspective. The bottom light curve shows the amount of light from the system dim and b...
 
 </div>
 <!-- NASA-APOD:END -->
