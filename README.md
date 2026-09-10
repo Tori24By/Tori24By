@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Witness XZ Andromedae Wink
+#### 🌌 LDN 1295: The Giraffe Nebula
 
-<img src='https://apod.nasa.gov/apod/image/2609/xz_and.mp4' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2609/LDN1295_giraffe_1024.jpg' width='400' />
 
-> Is this star winking at us? The central object in today’s animation is not one but two stars. XZ Andromedae, indicated by the bold lines, is an Algol-type eclipsing binary with a nearly edge-on orbit from Earth’s perspective. The bottom light curve shows the amount of light from the system dim and b...
+> What does this image look like to you?   Many see a giraffe facing right, with neck stretched high and long legs mid-stride (but some may see a squirrel instead).   The featured image shows LDN 1295, also called the Giraffe Nebula, in the constellation of the mythical queen of Aethiopia (Cassiopeia)...
 
 </div>
 <!-- NASA-APOD:END -->
