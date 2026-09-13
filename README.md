@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Apollo 11: Catching Some Sun
+#### 🌌 Comet NEOWISE Rising over the Adriatic Sea
 
-<img src='https://apod.nasa.gov/apod/image/2609/AS11-40-5872HR1024.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2609/NoctilucentNeowise_Girotti.mp4' width='400' />
 
-> Bright sunlight glints as long dark shadows mark this image of the surface of the Moon. It was taken on July 20, 1969, by Apollo 11 astronaut Neil Armstrong, the first to walk on the lunar surface. Pictured is the mission's lunar module, the Eagle, and spacesuited lunar module pilot Buzz Aldrin. Ald...
+> This sight was worth getting out of bed early.  Just over four years ago, Comet C/2020 F3 (NEOWISE) rose before dawn to the delight of northern sky enthusiasts awake that early. Up before sunrise on July 8th, the featured photographer was able to capture in dramatic fashion one of the few comets vis...
 
 </div>
 <!-- NASA-APOD:END -->
