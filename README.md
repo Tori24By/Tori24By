@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Comet NEOWISE Rising over the Adriatic Sea
+#### 🌌 Where Your Elements Came From
 
-<img src='https://apod.nasa.gov/apod/image/2609/NoctilucentNeowise_Girotti.mp4' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2609/ElementOrigins2_svs_1080.jpg' width='400' />
 
-> This sight was worth getting out of bed early.  Just over four years ago, Comet C/2020 F3 (NEOWISE) rose before dawn to the delight of northern sky enthusiasts awake that early. Up before sunrise on July 8th, the featured photographer was able to capture in dramatic fashion one of the few comets vis...
+> The hydrogen in your body and present in every molecule of water came from the Big Bang.  There are no other appreciable sources of hydrogen in the universe.  The carbon in your body was made by nuclear fusion in the interior of stars, as was the oxygen.  Much of the iron in your body was made durin...
 
 </div>
 <!-- NASA-APOD:END -->
