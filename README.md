@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Where Your Elements Came From
+#### 🌌 A Daytime Eclipse: Moon Occults Venus
 
-<img src='https://apod.nasa.gov/apod/image/2609/ElementOrigins2_svs_1080.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2609/MoonVenus_Mariat_960.jpg' width='400' />
 
-> The hydrogen in your body and present in every molecule of water came from the Big Bang.  There are no other appreciable sources of hydrogen in the universe.  The carbon in your body was made by nuclear fusion in the interior of stars, as was the oxygen.  Much of the iron in your body was made durin...
+> There was something behind the clouds.  Upon close inspection, it was the Moon, which was hard to see yesterday around noon above the small village of Cessy, France.  But soon, it was not only the Moon. As expected, a bright dot suddenly appeared from behind the Moon -- the planet Venus far in the d...
 
 </div>
 <!-- NASA-APOD:END -->
