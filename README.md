@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 A Daytime Eclipse: Moon Occults Venus
+#### 🌌 Webb's View of M64
 
-<img src='https://apod.nasa.gov/apod/image/2609/MoonVenus_Mariat_960.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2609/M64_Webb_1024.jpg' width='400' />
 
-> There was something behind the clouds.  Upon close inspection, it was the Moon, which was hard to see yesterday around noon above the small village of Cessy, France.  But soon, it was not only the Moon. As expected, a bright dot suddenly appeared from behind the Moon -- the planet Venus far in the d...
+> Sometimes where Hubble finds darkness, Webb sees light. An example is today’s composite images of Messier 64 (M64), a nearby spiral galaxy of many names. The dark band of dust partially blocking its bright core earned it the moniker “the Black Eye Galaxy.” Webb’s Mid-InfraRed Instrument (MIRI) sees ...
 
 </div>
 <!-- NASA-APOD:END -->
