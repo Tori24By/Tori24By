@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Webb's View of M64
+#### 🌌 A Treasure Chest in the Carina Nebula
 
-<img src='https://apod.nasa.gov/apod/image/2609/M64_Webb_1024.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2609/JWST_Treasure_Chest_800.jpg' width='400' />
 
-> Sometimes where Hubble finds darkness, Webb sees light. An example is today’s composite images of Messier 64 (M64), a nearby spiral galaxy of many names. The dark band of dust partially blocking its bright core earned it the moniker “the Black Eye Galaxy.” Webb’s Mid-InfraRed Instrument (MIRI) sees ...
+> This treasure chest is full of stars.   The featured image was obtained with NASA's James Webb Space Telescope and shows a dust pilar in the Carina Nebula inside our Galaxy, roughly 7500 light-years away.   It is formed by interstellar gas and dust, and shaped by powerful stellar winds and radiation...
 
 </div>
 <!-- NASA-APOD:END -->
