@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Messier 33: The Triangulum Galaxy
+#### 🌌 A Zodiacal Night
 
-<img src='https://apod.nasa.gov/apod/image/2609/m33m14_rasa3NM1024.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2609/2026-09-09ZodiacalLightHSP1024.jpg' width='400' />
 
-> The small, northern constellation Triangulum harbors this magnificent face-on spiral galaxy, Messier 33. Its popular names include the Pinwheel Galaxy or just the Triangulum Galaxy. M33 is over 50,000 light-years in diameter, third largest in the Local Group of galaxies after the Andromeda Galaxy (M...
+> Also known as the false dawn, a luminous band of zodiacal light is captured in this dark night skyscape. The serene view was recorded just before the beginning of astronomical twilight during September's star party at the remote Hanle Dark Sky Reserve, Ladakh, India, planet Earth. At about 4,500 met...
 
 </div>
 <!-- NASA-APOD:END -->
