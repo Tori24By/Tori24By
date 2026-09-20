@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 A Zodiacal Night
+#### 🌌 Analemma over the Callanish Stones
 
-<img src='https://apod.nasa.gov/apod/image/2609/2026-09-09ZodiacalLightHSP1024.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2609/CallanishAnalemma_Petricca_960.jpg' width='400' />
 
-> Also known as the false dawn, a luminous band of zodiacal light is captured in this dark night skyscape. The serene view was recorded just before the beginning of astronomical twilight during September's star party at the remote Hanle Dark Sky Reserve, Ladakh, India, planet Earth. At about 4,500 met...
+> If you went outside at the same time every day and took a picture that included the Sun, how would the Sun's position change?  A visual answer to that question is an analemma, a composite image taken from the same spot at the same time over the course of a year.  The featured analemma was composed f...
 
 </div>
 <!-- NASA-APOD:END -->
