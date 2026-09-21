@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Analemma over the Callanish Stones
+#### 🌌 Cocoon Nebula Wide Field
 
-<img src='https://apod.nasa.gov/apod/image/2609/CallanishAnalemma_Petricca_960.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2609/Cocoon_Czerski_1080.jpg' width='400' />
 
-> If you went outside at the same time every day and took a picture that included the Sun, how would the Sun's position change?  A visual answer to that question is an analemma, a composite image taken from the same spot at the same time over the course of a year.  The featured analemma was composed f...
+> When does a nebula look like a comet?  In this crowded starfield covering over two degrees within the high-flying constellation of the Swan (Cygnus), the eye is drawn to the Cocoon Nebula.  A compact star forming region, the cosmic Cocoon punctuates a nebula bright in emission and reflection on the ...
 
 </div>
 <!-- NASA-APOD:END -->
