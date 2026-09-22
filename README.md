@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Cocoon Nebula Wide Field
+#### 🌌 Chance Triple Alignment: Plane, Space Station, Sun
 
-<img src='https://apod.nasa.gov/apod/image/2609/Cocoon_Czerski_1080.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2609/PlaneIssSpots_Horalek_960.jpg' width='400' />
 
-> When does a nebula look like a comet?  In this crowded starfield covering over two degrees within the high-flying constellation of the Swan (Cygnus), the eye is drawn to the Cocoon Nebula.  A compact star forming region, the cosmic Cocoon punctuates a nebula bright in emission and reflection on the ...
+> This shot captured an unexpected silhouette. Which is it?  It isn't the sunspots, the small dark regions caused by concentrated magnetic fields visible around the Sun's bright disk. Sunspots typically last for weeks and were expected, since these spots were seen previously.  It isn’t the Internation...
 
 </div>
 <!-- NASA-APOD:END -->
