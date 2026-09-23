@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Chance Triple Alignment: Plane, Space Station, Sun
+#### 🌌 A New Lunar Crater: McGetchin
 
-<img src='https://apod.nasa.gov/apod/image/2609/PlaneIssSpots_Horalek_960.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2609/mcgetchin_after.jpg' width='400' />
 
-> This shot captured an unexpected silhouette. Which is it?  It isn't the sunspots, the small dark regions caused by concentrated magnetic fields visible around the Sun's bright disk. Sunspots typically last for weeks and were expected, since these spots were seen previously.  It isn’t the Internation...
+> A once-in-a-lifetime crater has appeared on the Moon! A comet or asteroid roughly the size of a humpback whale (approximately 10-20 meters, 30-60 feet) crashed into the Moon sometime between April and May of 2024. The Lunar Reconnaissance Orbiter (LRO), with its monthly monitoring of the Moon, captu...
 
 </div>
 <!-- NASA-APOD:END -->
