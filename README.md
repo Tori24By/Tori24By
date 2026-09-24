@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 A New Lunar Crater: McGetchin
+#### 🌌 The Ghosts of Five Supernovas
 
-<img src='https://apod.nasa.gov/apod/image/2609/mcgetchin_after.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2609/5SNR_Auriga_1000.jpg' width='400' />
 
-> A once-in-a-lifetime crater has appeared on the Moon! A comet or asteroid roughly the size of a humpback whale (approximately 10-20 meters, 30-60 feet) crashed into the Moon sometime between April and May of 2024. The Lunar Reconnaissance Orbiter (LRO), with its monthly monitoring of the Moon, captu...
+> The ghosts of five supernovas haunt this extraordinary image.   It was acquired at Oukaïmeden Observatory in Morocco with approximately 200 hours of observations and shows a large patch of the sky, equivalent to the area of one thousand full moons tiled together, in the constellation of Auriga (the ...
 
 </div>
 <!-- NASA-APOD:END -->
