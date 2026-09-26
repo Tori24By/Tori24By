@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Globular Cluster Omega Centauri
+#### 🌌 Mirrored Meteor and Milky Way
 
-<img src='https://apod.nasa.gov/apod/image/2609/NGC5139CadenasParra1024.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2609/MilkyWayMeteorLSTJeffDai1024.jpg' width='400' />
 
-> Globular star cluster Omega Centauri packs about 10 million stars much older than the Sun into a volume some 150 light-years in diameter. Also known as NGC 5139, at a distance of 15,000 light-years it's the largest and brightest of 200 or so known globular clusters that roam the halo of our Milky Wa...
+> On August 15, this perseid meteor streaked through night skies over the Observatorio del Roque de los Muchachos at La Palma, Canary Islands, Spain. The bright and colorful meteor trail was captured next to the central Milky Way, whose dark interstellar dust clouds and luminous starlight reach above ...
 
 </div>
 <!-- NASA-APOD:END -->
