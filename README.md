@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Mirrored Meteor and Milky Way
+#### 🌌 Andromeda before Photoshop
 
-<img src='https://apod.nasa.gov/apod/image/2609/MilkyWayMeteorLSTJeffDai1024.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2609/M31Before_Scherer_960.jpg' width='400' />
 
-> On August 15, this perseid meteor streaked through night skies over the Observatorio del Roque de los Muchachos at La Palma, Canary Islands, Spain. The bright and colorful meteor trail was captured next to the central Milky Way, whose dark interstellar dust clouds and luminous starlight reach above ...
+> What does the Andromeda galaxy really look like? The featured image shows how our Milky Way Galaxy's closest major galactic neighbor really appears in a long exposure through Earth's busy skies and with a digital camera that introduces normal imperfections.  The picture is a stack of 223 images, eac...
 
 </div>
 <!-- NASA-APOD:END -->
