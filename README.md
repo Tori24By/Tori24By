@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Andromeda before Photoshop
+#### 🌌 Cosmic Latte: The Average Color of the Universe
 
-<img src='https://apod.nasa.gov/apod/image/2609/M31Before_Scherer_960.jpg' width='400' />
+<img src='https://apod.nasa.gov/apod/image/2609/CosmicLatte_jhu_960_annotated.jpg' width='400' />
 
-> What does the Andromeda galaxy really look like? The featured image shows how our Milky Way Galaxy's closest major galactic neighbor really appears in a long exposure through Earth's busy skies and with a digital camera that introduces normal imperfections.  The picture is a stack of 223 images, eac...
+> What color is the universe?  More precisely, if the entire sky were smeared out, what color would the final mix be?  This whimsical question came up when trying to determine what stars are commonplace in nearby galaxies. The answer, depicted here, is a conditionally perceived shade of beige. In comp...
 
 </div>
 <!-- NASA-APOD:END -->
