@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 Sh2-188: The Shrimp Nebula
+#### 🌌 NASA APOD
 
-<img src='https://apod.nasa.gov/apod/image/2609/Shrimp_Pawel_960.jpg' width='400' />
+<img src='' width='400' />
 
-> What causes the swirl in the Shrimp Nebula? Its high speed is likely.  What is sure is that Sh2-188 is one of the larger planetary nebulas on the night sky, by angular size, spanning about half the diameter of the Moon.  Moreover, the white-dwarf core -- leftover from the Sun-like star that shed its...
+> ...
 
 </div>
 <!-- NASA-APOD:END -->
