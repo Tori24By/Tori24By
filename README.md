@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 NASA Science
+#### 🌌 NASA APOD
 
-<img src='https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png' width='400' />
+<img src='' width='400' />
 
-> It is time to say goodbye to NASA's Neil Gehrels Swift Observatory. After nearly 22 years of service, the satellite re-entered Earth's atmosphere on November 4 at 7:39 EST over the North Sumatra region of Indonesia. The featured image is a mosaic created in 2018 using the first one million images ca...
+> ...
 
 </div>
 <!-- NASA-APOD:END -->
