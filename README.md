@@ -106,7 +106,7 @@
 
 <img src='https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png' width='400' />
 
-> If you stare into space for a long time, what might you see? At first, you might only see the usual brightest stars, but if your eyes (or camera) could continue to collect light, you would see increasingly more. In the direction of the featured image, after only a few minutes, you would begin to not...
+> After this galaxy battle, only one galaxy will remain. Already visible in the featured picture are rings and faint star swirls from previous gravitational encounters. Known collectively as the NGC 7771 Group, these galaxies lie almost 200 million light-years away toward the high-flying constellation...
 
 </div>
 <!-- NASA-APOD:END -->
