@@ -106,7 +106,7 @@
 
 <img src='https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png' width='400' />
 
-> After this galaxy battle, only one galaxy will remain. Already visible in the featured picture are rings and faint star swirls from previous gravitational encounters. Known collectively as the NGC 7771 Group, these galaxies lie almost 200 million light-years away toward the high-flying constellation...
+> To view this video please enable JavaScript, and consider upgrading to a web browser that 					supports HTML5 vide...
 
 </div>
 <!-- NASA-APOD:END -->
