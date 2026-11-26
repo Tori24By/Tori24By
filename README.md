@@ -102,11 +102,11 @@
 <!-- NASA-APOD:START -->
 <div align='center'>
 
-#### 🌌 NASA Science
+#### 🌌 NASA APOD
 
-<img src='https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png' width='400' />
+<img src='' width='400' />
 
-> To view this video please enable JavaScript, and consider upgrading to a web browser that 					supports HTML5 vide...
+> ...
 
 </div>
 <!-- NASA-APOD:END -->
